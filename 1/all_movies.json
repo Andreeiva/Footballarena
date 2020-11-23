@@ -2,7 +2,7 @@
 		"categoryId": 1,
 		"categoryTitle": "English Premier League",
 		"categoryItemList": [{
-				"fileUrl": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
+				"fileUrl": "http://cdn.assia1.tv/hls/87.m3u8?md5=o2dh2-Tsm6vCIn5tJxyP0A&expires=1606154932",
 				"id": 1,
 				"imageUrl": "https://i2-prod.football.london/incoming/article17496141.ece/ALTERNATES/s1200/0_Arsenal-Manchester-United.jpg",
 				"movieName": "Arsenal vs Man united"
