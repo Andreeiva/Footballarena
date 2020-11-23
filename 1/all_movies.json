@@ -1,7 +1,7 @@
 [{
 		"categoryId": 1,
 		"categoryTitle": "English Premier League",
-		"categoryItemList": [{
+		"categoryItemList": {
 				"http://iptvstream.xyz:8080/test-6086c5/0fb3/157492",
 				"id": 1,
 				"imageUrl": "https://i2-prod.football.london/incoming/article17496141.ece/ALTERNATES/s1200/0_Arsenal-Manchester-United.jpg",
