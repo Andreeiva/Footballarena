@@ -2,7 +2,8 @@
 		"categoryId": 1,
 		"categoryTitle": "English Premier League",
 		"categoryItemList": [{
-				"fileUrl":#EXTINF:-1 "http://m3ulink.com:7899/gtZcA8Ugs/po5dA7Vm07/111834",
+				"fileUrl":"#EXTINF:-1 
+			http://m3ulink.com:7899/gtZcA8Ugs/po5dA7Vm07/111834",
 				"id": 1,
 				"imageUrl": "https://i2-prod.football.london/incoming/article17496141.ece/ALTERNATES/s1200/0_Arsenal-Manchester-United.jpg",
 				"movieName": "Arsenal vs Man united"
