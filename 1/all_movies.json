@@ -2,10 +2,7 @@
 		"categoryId": 1,
 		"categoryTitle": "English Premier League",
 		"categoryItemList": [{
-				"fileUrl": "
-https://unidfpclnlds141.akamaized.net/linear/hls/pb/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/2d95530c-1044-4e91-9e58-9f8e307d1a40:TPE2/variant/3cbd8c1ee1541348f5a9ab3b77ef4103/bandwidth/800000.m3u8?hdntl=exp=1606337215~acl=*~id=890f8885-5d49-436b-89ab-09b02cb2cd1d~data=hdntl~hmac=5a54dca1b23f233eafad3216d8ee54ea8708ace25c50c3fbfc7f042dfce03049
-
-",
+				"fileUrl": "https: //unidfpclnlds141.akamaized.net/linear/hls/pb/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/2d95530c-1044-4e91-9e58-9f8e307d1a40:TPE2/variant/3cbd8c1ee1541348f5a9ab3b77ef4103/bandwidth/800000.m3u8?hdntl=exp=1606337215~acl=*~id=890f8885-5d49-436b-89ab-09b02cb2cd1d~data=hdntl~hmac=5a54dca1b23f233eafad3216d8ee54ea8708ace25c50c3fbfc7f042dfce03049",
 				"id": 1,
 				"imageUrl": "https://media.squawka.com/images/en/2019/10/16171500/feature_x-2-images-9.jpg",
 				"movieName": "Burnley vs Crystal Palace"
@@ -40,7 +37,7 @@ https://unidfpclnlds141.akamaized.net/linear/hls/pb/event/bQ2JGGVzTpqfCfcTZWay1Q
 		"categoryId": 2,
 		"categoryTitle": "La Liga",
 		"categoryItemList": [{
-				"fileUrl": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8",
+				"fileUrl": "https://b.eplayer.xyz:30443/live/aYThgbes/chunks.m3u8?nimblesessionid=30721762&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMCA5OjQ4OjA3IFBNJmhhc2hfdmFsdWU9OXkzTTQzU3pRTStzT1F3V2Y1LzRCUT09JnZhbGlkbWludXRlcz0xMjA=",
 				"id": 1,
 				"imageUrl": "https://en.as.com/en/imagenes/2019/12/17/football/1576613955_161870_1576614001_noticia_normal.jpg",
 				"movieName": "Real Madrid vs Barcelona"
