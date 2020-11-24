@@ -2,13 +2,13 @@
 		"categoryId": 1,
 		"categoryTitle": "English Premier League",
 		"categoryItemList": [{
-				"fileUrl": "https: //unidfpclnlds141.akamaized.net/linear/hls/pb/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/2d95530c-1044-4e91-9e58-9f8e307d1a40:TPE2/variant/3cbd8c1ee1541348f5a9ab3b77ef4103/bandwidth/800000.m3u8?hdntl=exp=1606337215~acl=*~id=890f8885-5d49-436b-89ab-09b02cb2cd1d~data=hdntl~hmac=5a54dca1b23f233eafad3216d8ee54ea8708ace25c50c3fbfc7f042dfce03049",
+				"fileUrl": "http://87.120.36.62:8080/hls/streama140184/index.m3u8",
 				"id": 1,
 				"imageUrl": "https://media.squawka.com/images/en/2019/10/16171500/feature_x-2-images-9.jpg",
 				"movieName": "Burnley vs Crystal Palace"
 			},
 			{
-				"fileUrl": "https://b.eplayer.xyz:30443/live/aYThgbes/chunks.m3u8?nimblesessionid=30721762&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMCA5OjQ4OjA3IFBNJmhhc2hfdmFsdWU9OXkzTTQzU3pRTStzT1F3V2Y1LzRCUT09JnZhbGlkbWludXRlcz0xMjA=",
+				"fileUrl": "http://87.120.36.62:8080/hls/streama140182/index.m3u8",
 				"id": 2,
 				"imageUrl": "https://media.squawka.com/images/en/2019/10/16171500/feature_x-2-images-9.jpg",
 				"movieName": "Burnley vs Crystal Palace"
