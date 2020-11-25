@@ -1,35 +1,35 @@
 [
   {
     "bannerCategoryId": "1",
-    "fileUrl": "http://aaa-566124332.us-west-2.elb.amazonaws.com/live/fefukuykgga/chunks.m3u8",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama140496/index.m3u8",
     "id": 1,
     "imageUrl": "https://static.standard.co.uk/2020/11/23/22/renneschelsea.png",
     "movieName": "RENNES VS CHELSEA"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "http://87.120.36.62:8080/hls/streama140181/index.m3u8",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama140501/index.m3u8",
     "id": 2,
     "imageUrl": "https://leaguelane.com/wp-content/uploads/2020/11/Borussia-Dortmund-vs-Club-Brugge-Champions-League-Prediction-by-LeagueLane.jpg",
     "movieName": "BORRUSIA DORTMUD VS CLUB BRUGGE"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "http://87.120.36.62:8080/hls/streama140175/index.m3u8",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama140500/index.m3u8",
     "id": 3,
     "imageUrl": "https://static.standard.co.uk/2020/11/23/22/renneschelsea.png",
     "movieName": "MANCHESTER UNITED VS INSTABUL BASEKSHIR"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama140496/index.m3u8",
     "id": 4,
     "imageUrl": "https://cdn.thestatszone.com/uploads/thumbnails/_r169l/UCL_2021_DynamoKyiv_Barcelona_MD4.jpg",
     "movieName": "DYNAMO KYIV VS BARCELONA"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/3076.m3u8",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama140499/index.m3u8",
     "id": 5,
     "imageUrl": "https://i.ytimg.com/vi/ndVQ6h1J91E/maxresdefault.jpg",
     "movieName": "PSG VS RB LEIPZIG"
@@ -51,7 +51,7 @@
   },
   {
     "bannerCategoryId": "2",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama140498/index.m3u8",
     "id": 3,
     "imageUrl": "https://www.toffeeweb.com/images/homepage/thumbs/matchday-westbrom-h.jpg",
     "movieName": "EVERTON VS WESTBROM"
