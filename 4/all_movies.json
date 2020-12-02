@@ -2,7 +2,7 @@
 		"categoryId": 3,
 		"categoryTitle": "Serie A",
 		"categoryItemList": [{
-				"fileUrl": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8",
+				"fileUrl": "https://live-ak.vimeocdn.com/exp=1606942742~acl=%2F93a3590d-5a5d-4184-8f6b-e0e12eeba8bc%2F%2A~hmac=8a3c17e5eb68c6158b525b31e286c00c60de8a3edc5dbd3b8114cbec55860805/93a3590d-5a5d-4184-8f6b-e0e12eeba8bc/chunklist_b3256000.m3u8?max_segments=10",
 				"id": 1,
 				"imageUrl": "https://www.essentiallysports.com/wp-content/uploads/2015/10/IntervACMilan-1200x720.jpg",
 				"movieName": "INTER MILAN VS AC MILAN"
