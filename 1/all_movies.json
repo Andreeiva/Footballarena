@@ -2,7 +2,7 @@
 		"categoryId": 1,
 		"categoryTitle": "English Premier League",
 		"categoryItemList": [{
-				"fileUrl": "http://87.120.36.62:8080/hls/streama140800/index.m3u8",
+				"fileUrl": "https://live-ak.vimeocdn.com/exp=1606947096~acl=%2Fd24846e6-4633-4383-957e-4f7ce7f35dcc%2F%2A~hmac=95e200ee323e3e76b9ec07839dfa343f73c9c59e117fc6826a106c9733f50716/d24846e6-4633-4383-957e-4f7ce7f35dcc/chunklist_b728000.m3u8",
 				"id": 1,
 				"imageUrl": "https://www.bigonsports.com/wp-content/uploads/2018/06/world-cup-sweden-vs-germany-picks.jpg",
 				"movieName": "Burnley vs Crystal Palace"
