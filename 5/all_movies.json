@@ -2,26 +2,14 @@
 		"categoryId": 4,
 		"categoryTitle": "BundesLiga",
 		"categoryItemList": [{
-				"fileUrl": "https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8",
+				"fileUrl": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
 				"id": 1,
 				"imageUrl": "https://i2.wp.com/bvbla.com/wp-content/uploads/2015/11/Borussia-Dortmund-vs-Stuttgart.jpg",
 				"movieName": "Dortmund vs Stuttgart"
 			},
+			
 			{
-				"fileUrl": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8",
-				"id": 2,
-				"imageUrl": "https://i2.wp.com/bvbla.com/wp-content/uploads/2015/11/Borussia-Dortmund-vs-Stuttgart.jpg",
-				"movieName": "Dortmund vs Stuttgart"
-			},
-			{
-				"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-				"id": 3,
-				"imageUrl": "https://i2.wp.com/bvbla.com/wp-content/uploads/2015/11/Borussia-Dortmund-vs-Stuttgart.jpg",
-				"movieName": "Dortmund vs Stuttgart"
-
-			},
-			{
-				"fileUrl": "https://doofootball.livestream-cdn.com/iptv/uk-premiersports.stream/chunks.m3u8",
+				"fileUrl": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
 				"id": 4,
 				"imageUrl": "https://i2.wp.com/bvbla.com/wp-content/uploads/2015/11/Borussia-Dortmund-vs-Stuttgart.jpg",
 				"movieName": "Dortmund vs Stuttgart"
