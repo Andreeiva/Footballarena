@@ -1,180 +1,78 @@
 [
   {
     "bannerCategoryId": "1",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6125/index.m3u8",
+    "fileUrl": "",
     "id": 1,
-    "imageUrl": "https://static.standard.co.uk/2020/11/23/22/renneschelsea.png",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/iAohLF5SugJ9yWwKnE6h9A.jpg",
     "movieName": "RENNES VS CHELSEA"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://static.standard.co.uk/2020/11/23/22/renneschelsea.png",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/iAohLF5SugJ9yWwKnE6h9A.jpg",
     "movieName": "BORRUSIA DORTMUD VS CLUB BRUGGE"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "fileUrl": "",
     "id": 3,
-    "imageUrl": "https://static.standard.co.uk/2020/11/23/22/renneschelsea.png",
+    "imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2019/11/MRF2019_SheffUtdvManUtd.jpg",
     "movieName": "MANCHESTER UNITED VS INSTABUL BASEKSHIR"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6123/index.m3u8",
+    "fileUrl": "",
     "id": 4,
-    "imageUrl": "https://cdn.thestatszone.com/uploads/thumbnails/_r169l/UCL_2021_DynamoKyiv_Barcelona_MD4.jpg",
+    "imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2019/11/MRF2019_SheffUtdvManUtd.jpg",
     "movieName": "DYNAMO KYIV VS BARCELONA"
   },
+ 
+{
+    "bannerCategoryId": "2,
+    "fileUrl": "",
+    "id": 1,
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/iAohLF5SugJ9yWwKnE6h9A.jpg",
+    "movieName": "RENNES VS CHELSEA"
+  },
   {
-    "bannerCategoryId": "1",
-    "fileUrl": "http://best-live-iptv.xyz:25461/BEST-LIVE565/BEST-LIVE565/1",
-    "id": 5,
-    "imageUrl": "https://i.ytimg.com/vi/ndVQ6h1J91E/maxresdefault.jpg",
-    "movieName": "PSG VS RB LEIPZIG"
+    "bannerCategoryId": "2
+    "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/iAohLF5SugJ9yWwKnE6h9A.jpg",
+    "movieName": "BORRUSIA DORTMUD VS CLUB BRUGGE"
+  },
+  {
+    "bannerCategoryId": "2,
+    "fileUrl": "",
+    "id": 3,
+    "imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2019/11/MRF2019_SheffUtdvManUtd.jpg",
+    "movieName": "MANCHESTER UNITED VS INSTABUL BASEKSHIR"
+  },
+  {
+    "bannerCategoryId": "2,
+    "fileUrl": "",
+    "id": 4,
+    "imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2019/11/MRF2019_SheffUtdvManUtd.jpg",
+    "movieName": "DYNAMO KYIV VS BARCELONA"
   },
   
   {
-    "bannerCategoryId": "2",
-    "fileUrl": "http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8",
-    "id": 1,
-    "imageUrl": "https://i.ytimg.com/vi/7zDpdhVATps/maxresdefault.jpg",
-    "movieName": "ARSENAL VS MANCHESTER UNITED"
-  },
-  {
-    "bannerCategoryId": "2",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/incoming/article14492651.ece/ALTERNATES/s1200b/Liverpool-vs-Man-City-LIVE.jpg",
-    "movieName": "LIVERPOOL VS MANCHESTER CITY"
-  },
-  {
-    "bannerCategoryId": "2",
-    "fileUrl": "http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8",
-    "id": 3,
-    "imageUrl": "https://www.toffeeweb.com/images/homepage/thumbs/matchday-westbrom-h.jpg",
-    "movieName": "EVERTON VS WESTBROM"
-  },
-  {
-    "bannerCategoryId": "2",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "id": 4,
-    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2018/09/PREM-PREVIEW-West-Ham-v-Chelsea.jpg",
-    "movieName": "WESTHAM VS CHELSEA"
-  },
-  {
-    "bannerCategoryId": "2",
-    "fileUrl": "https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 5,
-    "imageUrl": "https://www.liveonscore.com/wp-content/uploads/2019/01/Burnley-vs-Fulham-Preview-and-Prediction-Live-stream-Premier-League-2019.jpg",
-    "movieName": "BURNLEY VS FULHAM"
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8",
-    "id": 1,
-    "imageUrl": "https://i.ytimg.com/vi/7zDpdhVATps/maxresdefault.jpg",
-    "movieName": "ARSENAL VS MANCHESTER UNITED"
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 2,
-    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/incoming/article14492651.ece/ALTERNATES/s1200b/Liverpool-vs-Man-City-LIVE.jpg",
-    "movieName": "LIVERPOOL VS MANCHESTER CITY"
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 3,
-    "imageUrl": "https://www.toffeeweb.com/images/homepage/thumbs/matchday-westbrom-h.jpg",
-    "movieName": "EVERTON VS WESTBROM"
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 4,
-    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2018/09/PREM-PREVIEW-West-Ham-v-Chelsea.jpg",
-    "movieName": "WESTHAM VS CHELSEA"
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 5,
-    "imageUrl": "https://www.liveonscore.com/wp-content/uploads/2019/01/Burnley-vs-Fulham-Preview-and-Prediction-Live-stream-Premier-League-2019.jpg",
-    "movieName": "BURNLEY VS FULHAM"
-  },
-  {
     "bannerCategoryId": "4",
-    "fileUrl": "http://185.71.64.167:80/live/7654321/1234567/79172.m3u8",
+    "fileUrl": "",
     "id": 1,
-    "imageUrl": "https://i.ytimg.com/vi/7zDpdhVATps/maxresdefault.jpg",
+    "imageUrl": "https://as00.epimg.net/img/comunes/directos/futbol/09/24_125.jpg",
     "movieName": "ARSENAL VS MANCHESTER UNITED"
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/incoming/article14492651.ece/ALTERNATES/s1200b/Liverpool-vs-Man-City-LIVE.jpg",
+    "imageUrl": "https://as00.epimg.net/img/comunes/directos/futbol/09/24_125.jpg",
     "movieName": "LIVERPOOL VS MANCHESTER CITY"
-  },
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 3,
-    "imageUrl": "https://www.toffeeweb.com/images/homepage/thumbs/matchday-westbrom-h.jpg",
-    "movieName": "EVERTON VS WESTBROM"
-  },
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 4,
-    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2018/09/PREM-PREVIEW-West-Ham-v-Chelsea.jpg",
-    "movieName": "WESTHAM VS CHELSEA"
-  },
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 5,
-    "imageUrl": "https://www.liveonscore.com/wp-content/uploads/2019/01/Burnley-vs-Fulham-Preview-and-Prediction-Live-stream-Premier-League-2019.jpg",
-    "movieName": "BURNLEY VS FULHAM"
-  },
-  {
-    "bannerCategoryId": "5",
-    "fileUrl": "http://anadol.co:25461/live/52836373/56393627/7868.m3u8",
-    "id": 1,
-    "imageUrl": "https://i.ytimg.com/vi/7zDpdhVATps/maxresdefault.jpg",
-    "movieName": "ARSENAL VS MANCHESTER UNITED"
-  },
-  {
-    "bannerCategoryId": "5",
-    "fileUrl": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/incoming/article14492651.ece/ALTERNATES/s1200b/Liverpool-vs-Man-City-LIVE.jpg",
-    "movieName": "LIVERPOOL VS MANCHESTER CITY"
-  },
-  {
-    "bannerCategoryId": "5",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 3,
-    "imageUrl": "https://www.toffeeweb.com/images/homepage/thumbs/matchday-westbrom-h.jpg",
-    "movieName": "EVERTON VS WESTBROM"
-  },
-  {
-    "bannerCategoryId": "5",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 4,
-    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2018/09/PREM-PREVIEW-West-Ham-v-Chelsea.jpg",
-    "movieName": "WESTHAM VS CHELSEA"
-  },
-  {
-    "bannerCategoryId": "5",
-    "fileUrl": "https://30a-tv.com/sidewalks.m3u8",
-    "id": 5,
-    "imageUrl": "https://www.liveonscore.com/wp-content/uploads/2019/01/Burnley-vs-Fulham-Preview-and-Prediction-Live-stream-Premier-League-2019.jpg",
-    "movieName": "BURNLEY VS FULHAM"
   }
+ 
+ 
  
 ]
 
