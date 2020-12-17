@@ -1,1 +1,32 @@
 
+[{
+		"categoryId": 1,
+		"categoryTitle": "Home",
+		"categoryItemList": [{
+				"fileUrl": "",
+				"id": 1,
+				"imageUrl": "https://cdn.mos.cms.futurecdn.net/iAohLF5SugJ9yWwKnE6h9A.jpg",
+				"movieName": "ASTON VILLA VS BURNLEY"
+			},
+			{
+				"fileUrl": "",
+				"id": 2,
+				"imageUrl": "https://cdn.mos.cms.futurecdn.net/iAohLF5SugJ9yWwKnE6h9A.jpg",
+				"movieName": "ASTON VILLA VS BURNLEY"
+			},
+			{
+				"fileUrl": "",
+				"id": 3,
+				"imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2019/11/MRF2019_SheffUtdvManUtd.jpg",
+				"movieName": "SHEFFIELD UNITED VS MANCHESTER UNITED"
+			},
+			{
+				"fileUrl": "",
+				"id": 4,
+				"imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2019/11/MRF2019_SheffUtdvManUtd.jpg",
+				"movieName": "SHEFFIELD UNITED VS MANCHESTER UNITED"
+				}
+		
+		]
+	}
+]
