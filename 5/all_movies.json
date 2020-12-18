@@ -1,1 +1,35 @@
 
+[{
+		"categoryId": 5,
+		"categoryTitle": "BUNDELIGA",
+		"categoryItemList": [{
+    "fileUrl": "",
+    "id": 1,
+    "imageUrl": "https://ats.io/wp-content/uploads/2020/05/FC-Koln-vs-RB-Leipzig.jpg",
+    "movieName": "RB LEIPZIG VS FC KOLN"
+  },
+  {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/6phfahvd5m4/hqdefault.jpg",
+    "movieName": "BORRUSIA MUNCHEN GLADBACH VS HOFFENHAIM"
+  },
+   {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 3,
+    "imageUrl": "https://img.welt.de/img/sport/fussball/bundesliga/mobile222652672/6511356317-ci16x9-w1200/FC-Schalke-04-Arminia-Bielefeld.jpg",
+    "movieName": "Schalke 04 vs Arminia Bielefeld"
+  },
+  {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 4,
+     "imageUrl": "https://ats.io/wp-content/uploads/2020/06/Bayer-Leverkusen-vs-Bayern-Munich.jpg",
+    "movieName": "Bayer Leverkusen vs Bayern München"
+			}
+		
+		]
+	}
+]
