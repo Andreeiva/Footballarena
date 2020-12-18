@@ -3,28 +3,59 @@
 		"categoryId": 1,
 		"categoryTitle": "EPL",
 		"categoryItemList": [{
-				"fileUrl": "",
-				"id": 1,
-				"imageUrl": "",
-				"movieName": "ASTON VILLA VS BURNLEY"
-			},
-			{
-				"fileUrl": "",
-				"id": 2,
-				"imageUrl": "",
-				"movieName": "ASTON VILLA VS BURNLEY"
-			},
-			{
-				"fileUrl": "",
-				"id": 3,
-				"imageUrl": "",
-				"movieName": "SHEFFIELD UNITED VS MANCHESTER UNITED"
-			},
-			{
-				"fileUrl": "",
-				"id": 4,
-				"imageUrl": "",
-				"movieName": "SHEFFIELD UNITED VS MANCHESTER UNITED"
+				 "fileUrl": "",
+    "id": 1,
+    "imageUrl": "https://i.ytimg.com/vi/r8jLP9pOobI/maxresdefault.jpg",
+    "movieName": "CRYSTAL PALACE VS LIVERPOOL"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/r8jLP9pOobI/maxresdefault.jpg",
+    "movieName": "CRYSTAL PALACE VS LIVERPOOL"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 3,
+  "imageUrl": "https://i1.wp.com/sportgrill.blog/wp-content/uploads/2020/06/SOUMNC.png?resize=678%2C381&ssl=1",
+    "movieName": "SOUTHAMPTON VS MAN CITY"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 4,
+   "imageUrl": "https://i1.wp.com/sportgrill.blog/wp-content/uploads/2020/06/SOUMNC.png?resize=678%2C381&ssl=1",
+    "movieName": "SOUTHAMPTON VS MAN CITY"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 5,
+    "imageUrl": "https://i2-prod.football.london/arsenal-fc/article17456615.ece/ALTERNATES/s1200/0_everton-arsenal.png",
+    "movieName": "EVERTON VS ARSENAL"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 6,
+    "imageUrl": "https://i2-prod.football.london/arsenal-fc/article17456615.ece/ALTERNATES/s1200/0_everton-arsenal.png",
+    "movieName": "EVERTON VS ARSENAL"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 7,
+  "imageUrl": "https://top10bettinglist.com/wp-content/uploads/2020/12/Newcastle-vs-Fulham-Prediction.jpg",
+    "movieName": "NEWCASTLE VS FULHAM"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 8,
+   "imageUrl": "https://top10bettinglist.com/wp-content/uploads/2020/12/Newcastle-vs-Fulham-Prediction.jpg",
+    "movieName": "NEWCASTLE VS FULHAM"
 				}
 		
 		]
