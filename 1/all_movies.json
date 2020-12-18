@@ -3,29 +3,59 @@
 		"categoryId": 1,
 		"categoryTitle": "EPL",
 		"categoryItemList": [{
-				"fileUrl": "",
-				"id": 1,
-				"imageUrl": "",
-				"movieName": "ASTON VILLA VS BURNLEY"
-			},
-			{
-				"fileUrl": "",
-				"id": 2,
-				"imageUrl": "",
-				"movieName": "ASTON VILLA VS BURNLEY"
-			},
-			{
-				"fileUrl": "",
-				"id": 3,
-				"imageUrl": "",
-				"movieName": "SHEFFIELD UNITED VS MANCHESTER UNITED"
-			},
-			{
-				"fileUrl": "",
-				"id": 4,
-				"imageUrl": "",
-				"movieName": "SHEFFIELD UNITED VS MANCHESTER UNITED"
-				
+				 "fileUrl": "",
+    "id": 1,
+    "imageUrl": "https://i.ytimg.com/vi/r8jLP9pOobI/maxresdefault.jpg",
+    "movieName": "CRYSTAL PALACE VS LIVERPOOL"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/r8jLP9pOobI/maxresdefault.jpg",
+    "movieName": "CRYSTAL PALACE VS LIVERPOOL"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 3,
+  "imageUrl": "https://i1.wp.com/sportgrill.blog/wp-content/uploads/2020/06/SOUMNC.png?resize=678%2C381&ssl=1",
+    "movieName": "SOUTHAMPTON VS MAN CITY"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 4,
+   "imageUrl": "https://i1.wp.com/sportgrill.blog/wp-content/uploads/2020/06/SOUMNC.png?resize=678%2C381&ssl=1",
+    "movieName": "SOUTHAMPTON VS MAN CITY"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 5,
+    "imageUrl": "https://i2-prod.football.london/arsenal-fc/article17456615.ece/ALTERNATES/s1200/0_everton-arsenal.png",
+    "movieName": "EVERTON VS ARSENAL"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 6,
+    "imageUrl": "https://i2-prod.football.london/arsenal-fc/article17456615.ece/ALTERNATES/s1200/0_everton-arsenal.png",
+    "movieName": "EVERTON VS ARSENAL"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 7,
+  "imageUrl": "https://top10bettinglist.com/wp-content/uploads/2020/12/Newcastle-vs-Fulham-Prediction.jpg",
+    "movieName": "NEWCASTLE VS FULHAM"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "",
+    "id": 8,
+   "imageUrl": "https://top10bettinglist.com/wp-content/uploads/2020/12/Newcastle-vs-Fulham-Prediction.jpg",
+    "movieName": "NEWCASTLE VS FULHAM"
 			}
 		]
 	},
@@ -34,19 +64,54 @@
 		
         {		     
 		"categoryId": 2,
-		"categoryTitle": "Serie A",
+		"categoryTitle": "LA LIGA",
 		"categoryItemList": [{
 				"fileUrl": "",
-				"id": 1,
-				"imageUrl": "",
-				"movieName": "ROMA VS TORINO"
-			},
-			
-			{
-				"fileUrl": "",
-				"id": 2,
-				"imageUrl": "",
-				"movieName": "ROMA VS TORINO"
+    "id": 1,
+    "imageUrl": "https://i.ytimg.com/vi/xJPTOhtce2I/maxresdefault.jpg",
+    "movieName": "ATHLETICO VS ELCHE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 2,
+     "imageUrl": "https://i.ytimg.com/vi/xJPTOhtce2I/maxresdefault.jpg",
+    "movieName": "ATHLETICO VS ELCHE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 3,
+  "imageUrl": "https://i.ytimg.com/vi/d8b-lqeI6T0/maxresdefault.jpg",
+    "movieName": "BARCELONA VS ELCHE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/d8b-lqeI6T0/maxresdefault.jpg",
+    "movieName": "BARCELONA VS ELCHE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+    "imageUrl": "hhttps://main-bet.com/uploads/posts/2017-09/1505886504_alineaciones-levante-vs-real-sociedad-liga-santander-655x368.jpg",
+    "movieName": "LEVANTE VS REAL SOCIEDAD"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 6,
+    "imageUrl": "https://i.ytimg.com/vi/BnMcEMVYZBE/maxresdefault.jpg",
+    "movieName": "OSASUNA VS VILLAREAL"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 7,
+  "imageUrl": "https://i.ytimg.com/vi/6Fd2iyaLNtw/maxresdefault.jpg",
+    "movieName": "SEVILLA VS REAL VALLADOLID"
 			}
 		
 		]
