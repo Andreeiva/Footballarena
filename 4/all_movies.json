@@ -3,16 +3,24 @@
 		"categoryId": 3,
 		"categoryTitle": "Serie A",
 		"categoryItemList": [{
-      "fileUrl": "",
-				"id": 1,
-				"imageUrl": "https://as00.epimg.net/img/comunes/directos/futbol/09/24_125.jpg",
-				"movieName": "ROMA VS TORINO"
-			},
-			{
-				"fileUrl": "",
-				"id": 2,
-				"imageUrl": "https://as00.epimg.net/img/comunes/directos/futbol/09/24_125.jpg",
-				"movieName": "ROMA VS TORINO"
+     "fileUrl": "",
+    "id": 1,
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/527261519570116945/4C09BFE1685345DC3730B8F13D8A8B88693C2282/",
+    "movieName": "fiorentina hellas verona"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/xLCBBVJ_STI/maxresdefault.jpg",
+    "movieName": "SAMPDORIA VS CROTONE"
+  },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 3,
+    "imageUrl": "https://cdn0-production-images-kly.akamaized.net/qFxWLzsNrDb7Ism1SVbQUpNd8a0=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2889685/original/057276500_1566466354-Serie_A_Parma_Vs_Juventus.jpg",
+    "movieName": "PARMA VS JUVENTUS"
 			}
 		
 		]
