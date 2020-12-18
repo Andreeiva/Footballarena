@@ -1,1 +1,57 @@
 
+[{
+		"categoryId": 2,
+		"categoryTitle": "SPANISH LA LIGA",
+		"categoryItemList": [{
+				 "fileUrl": "",
+    "id": 1,
+    "imageUrl": "https://i.ytimg.com/vi/xJPTOhtce2I/maxresdefault.jpg",
+    "movieName": "ATHLETICO VS ELCHE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 2,
+     "imageUrl": "https://i.ytimg.com/vi/xJPTOhtce2I/maxresdefault.jpg",
+    "movieName": "ATHLETICO VS ELCHE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 3,
+  "imageUrl": "https://i.ytimg.com/vi/d8b-lqeI6T0/maxresdefault.jpg",
+    "movieName": "BARCELONA VS ELCHE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/d8b-lqeI6T0/maxresdefault.jpg",
+    "movieName": "BARCELONA VS ELCHE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+    "imageUrl": "hhttps://main-bet.com/uploads/posts/2017-09/1505886504_alineaciones-levante-vs-real-sociedad-liga-santander-655x368.jpg",
+    "movieName": "LEVANTE VS REAL SOCIEDAD"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 6,
+    "imageUrl": "https://i.ytimg.com/vi/BnMcEMVYZBE/maxresdefault.jpg",
+    "movieName": "OSASUNA VS VILLAREAL"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 7,
+  "imageUrl": "https://i.ytimg.com/vi/6Fd2iyaLNtw/maxresdefault.jpg",
+    "movieName": "SEVILLA VS REAL VALLADOLID"
+				}
+		
+		]
+	}
+]
+© 2020 GitHub, Inc.
