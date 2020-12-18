@@ -1,6 +1,7 @@
 [{
-	"categoryId": 3,
-	"categoryTitle": "SPANISH LA LIGA",
+		"categoryId": 3,
+		"categoryTitle": "LA LIGA",
+		"categoryItemList": [{
 	"categoryItemList": [{
 			"fileUrl": "",
 			"id": 1,
