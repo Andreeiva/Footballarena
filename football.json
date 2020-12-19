@@ -71,13 +71,7 @@
 
   
 
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 1,
-    "imageUrl": "https://i.ytimg.com/vi/xLCBBVJ_STI/maxresdefault.jpg",
-    "movieName": "SAMPDORIA VS CROTONE"
-  },
+  
    {
     "bannerCategoryId": "4",
     "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6123/index.m3u8",
@@ -95,16 +89,16 @@
    
   {
     "bannerCategoryId": "5",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2518/index.m3u8",
+    "fileUrl": "",
     "id": 1,
-     "imageUrl": "https://ats.io/wp-content/uploads/2020/06/Bayer-Leverkusen-vs-Bayern-Munich.jpg",
+     "imageUrl": "",
     "movieName": "Bayer Leverkusen vs Bayern München"
   },
    {
     "bannerCategoryId": "5",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2505/index.m3u8",
+    "fileUrl": "",
     "id": 2,
-     "imageUrl": "https://ats.io/wp-content/uploads/2020/06/Bayer-Leverkusen-vs-Bayern-Munich.jpg",
+     "imageUrl": "",
     "movieName": "Bayer Leverkusen vs Bayern München"
   }
   
