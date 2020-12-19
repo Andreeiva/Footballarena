@@ -105,7 +105,7 @@
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/xLCBBVJ_STI/maxresdefault.jpg",
     "movieName": "SAMPDORIA VS CROTONE"
@@ -124,31 +124,18 @@
      "imageUrl": "https://cdn0-production-images-kly.akamaized.net/qFxWLzsNrDb7Ism1SVbQUpNd8a0=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2889685/original/057276500_1566466354-Serie_A_Parma_Vs_Juventus.jpg",
     "movieName": "PARMA VS JUVENTUS"
   },
-    {
-    "bannerCategoryId": "5",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2480/index.m3u8",
-    "id": 1,
-    "imageUrl": "https://ats.io/wp-content/uploads/2020/05/FC-Koln-vs-RB-Leipzig.jpg",
-    "movieName": "RB LEIPZIG VS FC KOLN"
-  },
+   
   {
     "bannerCategoryId": "5",
-    "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/6phfahvd5m4/hqdefault.jpg",
-    "movieName": "BORRUSIA MUNCHEN GLADBACH VS HOFFENHAIM"
-  },
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2518/index.m3u8",
+    "id": 1,
+     "imageUrl": "https://ats.io/wp-content/uploads/2020/06/Bayer-Leverkusen-vs-Bayern-Munich.jpg",
+    "movieName": "Bayer Leverkusen vs Bayern München"
+  }
    {
     "bannerCategoryId": "5",
-    "fileUrl": "",
-    "id": 3,
-    "imageUrl": "https://img.welt.de/img/sport/fussball/bundesliga/mobile222652672/6511356317-ci16x9-w1200/FC-Schalke-04-Arminia-Bielefeld.jpg",
-    "movieName": "Schalke 04 vs Arminia Bielefeld"
-  },
-  {
-    "bannerCategoryId": "5",
-    "fileUrl": "",
-    "id": 4,
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2505/index.m3u8",
+    "id": 2,
      "imageUrl": "https://ats.io/wp-content/uploads/2020/06/Bayer-Leverkusen-vs-Bayern-Munich.jpg",
     "movieName": "Bayer Leverkusen vs Bayern München"
   }
