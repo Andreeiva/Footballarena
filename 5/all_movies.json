@@ -2,29 +2,16 @@
 [{
 		"categoryId": 5,
 		"categoryTitle": "BUNDELIGA",
-		"categoryItemList": [{
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2480/index.m3u8",
-    "id": 1,
-    "imageUrl": "https://ats.io/wp-content/uploads/2020/05/FC-Koln-vs-RB-Leipzig.jpg",
-    "movieName": "RB LEIPZIG VS FC KOLN"
-  },
-  {
+		"categoryItemList": [ {
     "bannerCategoryId": "5",
-    "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/6phfahvd5m4/hqdefault.jpg",
-    "movieName": "BORRUSIA MUNCHEN GLADBACH VS HOFFENHAIM"
-  },
-   {
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2518/index.m3u8",
+    "id": 4,
+     "imageUrl": "https://ats.io/wp-content/uploads/2020/06/Bayer-Leverkusen-vs-Bayern-Munich.jpg",
+    "movieName": "Bayer Leverkusen vs Bayern München"
+			},
+				      {
     "bannerCategoryId": "5",
-    "fileUrl": "",
-    "id": 3,
-    "imageUrl": "https://img.welt.de/img/sport/fussball/bundesliga/mobile222652672/6511356317-ci16x9-w1200/FC-Schalke-04-Arminia-Bielefeld.jpg",
-    "movieName": "Schalke 04 vs Arminia Bielefeld"
-  },
-  {
-    "bannerCategoryId": "5",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2505/index.m3u8",
     "id": 4,
      "imageUrl": "https://ats.io/wp-content/uploads/2020/06/Bayer-Leverkusen-vs-Bayern-Munich.jpg",
     "movieName": "Bayer Leverkusen vs Bayern München"
