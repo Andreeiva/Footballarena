@@ -4,17 +4,19 @@
 		"categoryTitle": "BUNDELIGA",
 		"categoryItemList": [ {
     "bannerCategoryId": "5",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2518/index.m3u8",
-    "id": 4,
-     "imageUrl": "https://ats.io/wp-content/uploads/2020/06/Bayer-Leverkusen-vs-Bayern-Munich.jpg",
-    "movieName": "Bayer Leverkusen vs Bayern München"
-			},
-				      {
+   "fileUrl": "",
+    "id": 1,
+     "imageUrl": "https://i.ytimg.com/vi/fjAGJx3HSss/maxresdefault.jpg",
+    "movieName": "Freiburg vs Hertha BSC"
+  },
+   {
     "bannerCategoryId": "5",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2505/index.m3u8",
-    "id": 4,
-     "imageUrl": "https://ats.io/wp-content/uploads/2020/06/Bayer-Leverkusen-vs-Bayern-Munich.jpg",
-    "movieName": "Bayer Leverkusen vs Bayern München"
+    "fileUrl": "",
+    "id": 2,
+     "imageUrl": "https://i.ytimg.com/vi/KKmh6G4Et8c/maxresdefault.jpg",
+    "movieName": "Wolfsburg vs Stuttgart"
+
+  
 			}
 		
 		]
