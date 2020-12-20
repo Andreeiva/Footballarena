@@ -1,37 +1,24 @@
 [
   
 
-    {
-    "bannerCategoryId": "1",
-        "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "id": 3,
-    "imageUrl": "https://i.ytimg.com/vi/pp1-RbgabXY/maxresdefault.jpg",
-    "movieName": "TOTTENHAM VS LECIESTER CITY"
-  },
-  {
-    "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 4,
-   "imageUrl": "https://i.ytimg.com/vi/pp1-RbgabXY/maxresdefault.jpg",
-    "movieName": "TOTTENHAM VS LECIESTER CITY"
-},
+  
    {
     "bannerCategoryId": "1",
-       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
-    "id": 4,
-   "imageUrl": "https://i.ytimg.com/vi/pp1-RbgabXY/maxresdefault.jpg",
-    "movieName": "TOTTENHAM VS LECIESTER CITY"
-},
-   {
-    "bannerCategoryId": "1",
-        "fileUrl": "",
+        "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 5,
     "imageUrl": "https://i.ytimg.com/vi/Qex-G4cEHtI/maxresdefault.jpg",
     "movieName": "MANCHESTER UNITED VS LEEDS"
   },
   {
     "bannerCategoryId": "1",
-       "fileUrl": "",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "id": 6,
+   "imageUrl": "https://i.ytimg.com/vi/Qex-G4cEHtI/maxresdefault.jpg",
+    "movieName": "MANCHESTER UNITED VS LEEDS"
+},
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
     "id": 6,
    "imageUrl": "https://i.ytimg.com/vi/Qex-G4cEHtI/maxresdefault.jpg",
     "movieName": "MANCHESTER UNITED VS LEEDS"
@@ -50,37 +37,24 @@
      "imageUrl": "https://i.ytimg.com/vi/7nEybJXT2O4/maxresdefault.jpg",
     "movieName": "WEST BROMWICH ALBION VS ASTON VILA"
 },
- {
-    "bannerCategoryId": "2",
-        "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "id": 3,
-    "imageUrl": "https://i.ytimg.com/vi/pp1-RbgabXY/maxresdefault.jpg",
-    "movieName": "TOTTENHAM VS LECIESTER CITY"
-  },
-  {
-    "bannerCategoryId": "2",
-       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 4,
-   "imageUrl": "https://i.ytimg.com/vi/pp1-RbgabXY/maxresdefault.jpg",
-    "movieName": "TOTTENHAM VS LECIESTER CITY"
-},
+
    {
     "bannerCategoryId": "2",
-       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
-    "id": 4,
-   "imageUrl": "https://i.ytimg.com/vi/pp1-RbgabXY/maxresdefault.jpg",
-    "movieName": "TOTTENHAM VS LECIESTER CITY"
-},
-   {
-    "bannerCategoryId": "2",
-        "fileUrl": "",
+        "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 5,
     "imageUrl": "https://i.ytimg.com/vi/Qex-G4cEHtI/maxresdefault.jpg",
     "movieName": "MANCHESTER UNITED VS LEEDS"
   },
   {
-    "bannerCategoryId": "2",
-       "fileUrl": "",
+    "bannerCategoryId": "1",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "id": 6,
+   "imageUrl": "https://i.ytimg.com/vi/Qex-G4cEHtI/maxresdefault.jpg",
+    "movieName": "MANCHESTER UNITED VS LEEDS"
+},
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
     "id": 6,
    "imageUrl": "https://i.ytimg.com/vi/Qex-G4cEHtI/maxresdefault.jpg",
     "movieName": "MANCHESTER UNITED VS LEEDS"
