@@ -4,10 +4,38 @@
 		"categoryItemList": [
 		{
 			
-			"fileUrl": "",
-			"id": 7,
-			"imageUrl": "https://i.ytimg.com/vi/6Fd2iyaLNtw/maxresdefault.jpg",
-			"movieName": "SEVILLA VS REAL VALLADOLID"
+			 "fileUrl": "",
+    "id": 1,
+  "imageUrl": "https://i.ytimg.com/vi/sNf13SQ9SQM/maxresdefault.jpg",
+    "movieName": "Celta de Vigo vs Deportivo Alavés"
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 2,
+  "imageUrl": "https://i.ytimg.com/vi/cyz564dE5C4/maxresdefault.jpg",
+    "movieName": "Granada vs Real Betis"
+  },
+     {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 3,
+  "imageUrl": "https://i.ytimg.com/vi/njsRAWkVy2M/maxresdefault.jpg",
+    "movieName": "CADIZ VS GETAFE"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/njsRAWkVy2M/maxresdefault.jpg",
+    "movieName": "EIBAR VS REAL MADRID"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/njsRAWkVy2M/maxresdefault.jpg",
+    "movieName": "EIBAR VS REAL MADRID"
 		}
 
 	]
