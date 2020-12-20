@@ -60,16 +60,10 @@
 		"categoryId": 2,
 		"categoryTitle": "LA LIGA",
 		"categoryItemList": [
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
-    "id": 1,
-  "imageUrl": "https://i.ytimg.com/vi/sNf13SQ9SQM/maxresdefault.jpg",
-    "movieName": "Celta de Vigo vs Deportivo Alavés"
-  },
+
    {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "https://storage.googleapis.com/dailycl11/1b/1.m3u8",
     "id": 2,
   "imageUrl": "https://i.ytimg.com/vi/cyz564dE5C4/maxresdefault.jpg",
     "movieName": "Granada vs Real Betis"
