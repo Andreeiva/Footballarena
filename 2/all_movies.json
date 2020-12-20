@@ -6,37 +6,15 @@
   {
     "bannerCategoryId": "2",
        "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 5,
-    "imageUrl": "https://i.ytimg.com/vi/Qex-G4cEHtI/maxresdefault.jpg",
-    "movieName": "MANCHESTER UNITED VS LEEDS"
-  },
-  
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
-    "id": 6,
-   "imageUrl": "https://i.ytimg.com/vi/Qex-G4cEHtI/maxresdefault.jpg",
-    "movieName": "MANCHESTER UNITED VS LEEDS"
-},
-    {
-    "bannerCategoryId": "1",
-       "fileUrl": "",
-    "id": 7,
-   "imageUrl": "https://i.ytimg.com/vi/7nEybJXT2O4/maxresdefault.jpg",
-    "movieName": "WEST BROMWICH ALBION VS ASTON VILA"
-},
-    {
-    "bannerCategoryId": "2",
-       "fileUrl": "",
     "id": 8,
      "imageUrl": "https://i.ytimg.com/vi/7nEybJXT2O4/maxresdefault.jpg",
     "movieName": "WEST BROMWICH ALBION VS ASTON VILA"
 },
-   {
-    "bannerCategoryId": "2",
-        "fileUrl": "",
-    "id": 9,
-    "imageUrl": "https://i.ytimg.com/vi/7nEybJXT2O4/maxresdefault.jpg",
+  {
+    "bannerCategoryId": "1",
+       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
+    "id": 8,
+     "imageUrl": "https://i.ytimg.com/vi/7nEybJXT2O4/maxresdefault.jpg",
     "movieName": "WEST BROMWICH ALBION VS ASTON VILA"
 				
 				}
