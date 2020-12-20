@@ -4,28 +4,21 @@
 		"categoryTitle": "EPL",
 		"categoryItemList": [{
   "bannerCategoryId": "1",
-        "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
-    "id": 1,
-    "imageUrl": "https://sportforecasts.com/wp-content/uploads/2019/12/Brighton-vs-Sheffield-Utd.jpg",
-    "movieName": "BRIGHTON HOLVE ALBION VS SHEFFIELD UNITED"
-  },
-  {
-    "bannerCategoryId": "1",
        "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://sportforecasts.com/wp-content/uploads/2019/12/Brighton-vs-Sheffield-Utd.jpg",
-    "movieName": "BRIGHTON HOLVE ALBION VS SHEFFIELD UNITED"
-},
-    {
-    "bannerCategoryId": "1",
-        "fileUrl": "",
     "id": 3,
     "imageUrl": "https://i.ytimg.com/vi/pp1-RbgabXY/maxresdefault.jpg",
     "movieName": "TOTTENHAM VS LECIESTER CITY"
   },
   {
-    "bannerCategoryId": "1",
-       "fileUrl": "",
+    "bannerCategoryId": "2",
+       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 4,
+   "imageUrl": "https://i.ytimg.com/vi/pp1-RbgabXY/maxresdefault.jpg",
+    "movieName": "TOTTENHAM VS LECIESTER CITY"
+},
+   {
+    "bannerCategoryId": "2",
+       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
     "id": 4,
    "imageUrl": "https://i.ytimg.com/vi/pp1-RbgabXY/maxresdefault.jpg",
     "movieName": "TOTTENHAM VS LECIESTER CITY"
