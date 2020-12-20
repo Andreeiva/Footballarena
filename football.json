@@ -107,37 +107,17 @@
   },
 
  
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6128/index.m3u8",
-    "id": 4,
-     "imageUrl": "https://i.ytimg.com/vi/fx4pdPLjVLc/maxresdefault.jpg",
-    "movieName": "Benevento vs Genoa"
-  },
-     {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6128/index.m3u8",
-    "id": 5,
-    "imageUrl": "https://i.ytimg.com/vi/aG_x21DP3VU/maxresdefault.jpg",
-    "movieName": "CAGLIARI VS UDINESE"
-  },
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6125/index.m3u8",
-    "id": 6,
-     "imageUrl": "https://i.ytimg.com/vi/xDL0Y0fe2G0/maxresdefault.jpg",
-    "movieName": "Internazionale vs Spezia"
-  },
+  
     {
     "bannerCategoryId": "4",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6125/index.m3u8",
     "id": 4,
-     "imageUrl": "https://i.ytimg.com/vi/RDO0TbKHlVY/maxresdefault.jpg",
-    "movieName": "Sassuolo vs Milan"
+     "imageUrl": "https://i.ytimg.com/vi/x2sHlvuvJ0g/maxresdefault.jpg",
+    "movieName": "Atalanta vs Roma"
   },
      {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 5,
     "imageUrl": "https://i.ytimg.com/vi/x2sHlvuvJ0g/maxresdefault.jpg",
     "movieName": "Atalanta vs Roma"
