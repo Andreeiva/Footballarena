@@ -6,11 +6,52 @@
  
 				      {
     
-    "fileUrl": "
-",
+    "fileUrl": "",
+    "id": 3,
+    "imageUrl": "https://i.ytimg.com/vi/AUBJZchcwlM/hqdefault.jpg",
+    "movieName": "TORINO VS BOLOGNA"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
     "id": 4,
-    "imageUrl": "https://cdn0-production-images-kly.akamaized.net/qFxWLzsNrDb7Ism1SVbQUpNd8a0=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2889685/original/057276500_1566466354-Serie_A_Parma_Vs_Juventus.jpg",
-    "movieName": "PARMA VS JUVENTUS"
+     "imageUrl": "https://i.ytimg.com/vi/fx4pdPLjVLc/maxresdefault.jpg",
+    "movieName": "Benevento vs Genoa"
+  },
+     {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 5,
+    "imageUrl": "https://i.ytimg.com/vi/aG_x21DP3VU/maxresdefault.jpg",
+    "movieName": "CAGLIARI VS UDINESE"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+     "imageUrl": "https://i.ytimg.com/vi/xDL0Y0fe2G0/maxresdefault.jpg",
+    "movieName": "Internazionale vs Spezia"
+  },
+    {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 4,
+     "imageUrl": "https://i.ytimg.com/vi/RDO0TbKHlVY/maxresdefault.jpg",
+    "movieName": "Sassuolo vs Milan"
+  },
+     {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 5,
+    "imageUrl": "https://i.ytimg.com/vi/x2sHlvuvJ0g/maxresdefault.jpg",
+    "movieName": "Atalanta vs Roma"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+     "imageUrl": "https://i.ytimg.com/vi/845rhFSrDjk/hqdefault.jpg",
+    "movieName": "Lazio vs Napoli"
 			}
 		
 		]
