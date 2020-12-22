@@ -27,42 +27,21 @@
 		"categoryItemList": [
       {
     "bannerCategoryId": "3",
- "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6126/index.m3u8",
+ "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6073/index.m3u8",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/2-w7zzkFhCI/maxresdefault.jpg",
-    "movieName": "HUESCA VS LEVANTE"
+  "imageUrl": "https://i.ytimg.com/vi/BELdfAb7T8c/maxresdefault.jpg",
+    "movieName": "REAL VALLADOILD VS BARCELONA"
   },
-      {
+   {
     "bannerCategoryId": "3",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6126/index.m3u8",
-    "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/2-w7zzkFhCI/maxresdefault.jpg",
-    "movieName": "HUESCA VS LEVANTE"
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6073/index.m3u8",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
-    "movieName": "REAL SOCIEDAD VS ATHLETICO MADRID"
-  },
-      {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
-    "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
-    "movieName": "REAL SOCIEDAD VS ATHLETICO MADRID"
-  },
- {
-    "bannerCategoryId": "3",
-    "fileUrl": "",
-    "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
+  "imageUrl": "https://i.ytimg.com/vi/BELdfAb7T8c/maxresdefault.jpg",
     "movieName": "REAL VALLADOILD VS BARCELONA"
   },
       {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
     "id": 5,
   "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
     "movieName": "Villarreal vs Athletic Club"
@@ -70,18 +49,10 @@
       },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
     "movieName": "Villarreal vs Athletic Club"
-
-  },
-      {
-    "bannerCategoryId": "3",
-    "fileUrl": "",
-    "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
-    "movieName": "REAL VALLADOILD VS BARCELONA"
   }
 		
 		]
