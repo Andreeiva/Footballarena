@@ -4,17 +4,31 @@
 		"categoryTitle": "BUNDELIGA",
 		"categoryItemList": [ {
     "bannerCategoryId": "5",
-   "fileUrl": "",
+    "fileUrl": "",
     "id": 1,
-     "imageUrl": "",
-    "movieName": "Wolfsburg vs Stuttgart"
+     "imageUrl": "https://i.ytimg.com/vi/XGFk6WkcYBo/maxresdefault.jpg",
+    "movieName":"AUGSBURG VS RB LEPIZIG"
+  },
+  {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 1,
+     "imageUrl": "https://i.ytimg.com/vi/Qit4OHt60WE/maxresdefault.jpg",
+    "movieName":"Eintracht Braunschweig vs Borussia Dortmund"
+  },
+  {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 1,
+     "imageUrl": "https://i.ytimg.com/vi/XGFk6WkcYBo/maxresdefault.jpg",
+    "movieName":"AUGSBURG VS RB LEPIZIG"
   },
    {
     "bannerCategoryId": "5",
     "fileUrl": "",
     "id": 2,
-     "imageUrl": "",
-    "movieName": "Wolfsburg vs Stuttgart"
+     "imageUrl": "https://betzoid.com/imgs/predict-img/elversberg-borussia-mgladbach-22-12-2020.jpg",
+    "movieName": "Elversberg vs Borussia M'gladbach"
 
   
 			}
