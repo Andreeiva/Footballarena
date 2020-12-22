@@ -1,42 +1,42 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "EPL",
+		"categoryTitle": "EFL CARABAO CUP",
 		"categoryItemList": [{
   "bannerCategoryId": "1",
-        "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+       "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+    "imageUrl": "https://i.ytimg.com/vi/5-yA-dmxTc8/maxresdefault.jpg",
+    "movieName": "BRENTFORD VS NEWCASTLE"
 },
   {
     "bannerCategoryId": "1",
-         "fileUrl": "http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8",
+           "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+    "imageUrl": "https://i.ytimg.com/vi/5-yA-dmxTc8/maxresdefault.jpg",
+    "movieName": "BRENTFORD VS NEWCASTLE"
 },
   {
     "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+       "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+    "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
+    "movieName": "ARSENAL VS MANCHESTER CITY"
 },
 
    {
     "bannerCategoryId": "1",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
+    "fileUrl": "",
     "id": 8,
-   "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+  "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
+    "movieName": "ARSENAL VS MANCHESTER CITY"
 },
   {
     "bannerCategoryId": "2",
-         "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+        "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+  "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
+    "movieName": "ARSENAL VS MANCHESTER CITY"
 }]
 	},
 				     
@@ -44,28 +44,93 @@
 		
         {		     
 		"categoryId": 2,
-		"categoryTitle": "LA LIGA",
+		"categoryTitle": "SPANISH LA LIGA",
 		"categoryItemList": [
       {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+  "fileUrl": "",
     "id": 4,
-  "imageUrl": "",
-    "movieName": "EIBAR VS REAL MADRID"
+  "imageUrl": "https://i.ytimg.com/vi/W_QSDopXMoA/maxresdefault.jpg",
+    "movieName": "VALENCIA VS SEVILLA"
   },
       {
     "bannerCategoryId": "3",
     "fileUrl": "",
     "id": 5,
-  "imageUrl": "",
-    "movieName": "EIBAR VS REAL MADRID"
+  "imageUrl": "https://i.ytimg.com/vi/W_QSDopXMoA/maxresdefault.jpg",
+    "movieName": "VALENCIA VS SEVILLA"
+  },
+    {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/DDP7XraFm0c/maxresdefault.jpg",
+    "movieName": "ELCHE VS OSASUNA"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/DDP7XraFm0c/maxresdefault.jpg",
+    "movieName": "ELCHE VS OSASUNA"
   },
   {
     "bannerCategoryId": "3",
     "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/2-w7zzkFhCI/maxresdefault.jpg",
+    "movieName": "HUESCA VS LEVANTE"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
     "id": 5,
-  "imageUrl": "",
-    "movieName": "EIBAR VS REAL MADRID"
+  "imageUrl": "https://i.ytimg.com/vi/2-w7zzkFhCI/maxresdefault.jpg",
+    "movieName": "HUESCA VS LEVANTE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
+    "movieName": "REAL SOCIEDAD VS ATHLETICO MADRID"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
+    "movieName": "REAL SOCIEDAD VS ATHLETICO MADRID"
+  },
+ {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
+    "movieName": "REAL VALLADOILD VS BARCELONA"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
+    "movieName": "Villarreal vs Athletic Club"
+
+      },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
+    "movieName": "Villarreal vs Athletic Club"
+
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
+    "movieName": "REAL VALLADOILD VS BARCELONA"
   }
 		
 		]
