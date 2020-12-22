@@ -6,32 +6,10 @@
     "bannerCategoryId": "5",
     "fileUrl": "",
     "id": 1,
-     "imageUrl": "https://i.ytimg.com/vi/XGFk6WkcYBo/maxresdefault.jpg",
-    "movieName":"AUGSBURG VS RB LEPIZIG"
-  },
-  {
-    "bannerCategoryId": "5",
-    "fileUrl": "",
-    "id": 1,
-     "imageUrl": "https://i.ytimg.com/vi/Qit4OHt60WE/maxresdefault.jpg",
+     "imageUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "movieName":"Eintracht Braunschweig vs Borussia Dortmund"
-  },
-  {
-    "bannerCategoryId": "5",
-    "fileUrl": "",
-    "id": 1,
-     "imageUrl": "https://i.ytimg.com/vi/XGFk6WkcYBo/maxresdefault.jpg",
-    "movieName":"AUGSBURG VS RB LEPIZIG"
-  },
-   {
-    "bannerCategoryId": "5",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "id": 2,
-     "imageUrl": "https://betzoid.com/imgs/predict-img/elversberg-borussia-mgladbach-22-12-2020.jpg",
-    "movieName": "Elversberg vs Borussia M'gladbach"
-
+  }
   
-			}
 		
 		]
 	}
