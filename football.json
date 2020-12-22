@@ -1,112 +1,205 @@
 [   {
     "bannerCategoryId": "1",
-         "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+         "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+    "imageUrl": "https://i.ytimg.com/vi/5-yA-dmxTc8/maxresdefault.jpg",
+    "movieName": "BRENTFORD VS NEWCASTLE"
 },
   {
     "bannerCategoryId": "1",
-         "fileUrl": "http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8",
+           "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+    "imageUrl": "https://i.ytimg.com/vi/5-yA-dmxTc8/maxresdefault.jpg",
+    "movieName": "BRENTFORD VS NEWCASTLE"
 },
   {
     "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+       "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+    "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
+    "movieName": "ARSENAL VS MANCHESTER CITY"
 },
 
    {
     "bannerCategoryId": "1",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
+    "fileUrl": "",
     "id": 8,
-   "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+  "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
+    "movieName": "ARSENAL VS MANCHESTER CITY"
 },
-  {
-    "bannerCategoryId": "2",
-         "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
-},
+ 
   {
     "bannerCategoryId": "2",
          "fileUrl": "http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+    "imageUrl": "https://i.ytimg.com/vi/5-yA-dmxTc8/maxresdefault.jpg",
+    "movieName": "BRENTFORD VS NEWCASTLE"
 },
   {
     "bannerCategoryId": "2",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+           "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+    "imageUrl": "https://i.ytimg.com/vi/5-yA-dmxTc8/maxresdefault.jpg",
+    "movieName": "BRENTFORD VS NEWCASTLE"
+},
+  {
+    "bannerCategoryId": "2",
+       "fileUrl": "",
+    "id": 8,
+    "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
+    "movieName": "ARSENAL VS MANCHESTER CITY"
 },
 
    {
     "bannerCategoryId": "2",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
+    "fileUrl": "",
     "id": 8,
-   "imageUrl": "https://i.ytimg.com/vi/5TR6OhdUgW8/maxresdefault.jpg",
-    "movieName": "CHELSEA VS WESTHAM"
+  "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
+    "movieName": "ARSENAL VS MANCHESTER CITY"
 },
+ 
       {
     "bannerCategoryId": "3",
     "fileUrl": "",
     "id": 4,
-  "imageUrl": "",
-    "movieName": "EIBAR VS REAL MADRID"
+  "imageUrl": "https://i.ytimg.com/vi/W_QSDopXMoA/maxresdefault.jpg",
+    "movieName": "VALENCIA VS SEVILLA"
   },
       {
     "bannerCategoryId": "3",
     "fileUrl": "",
     "id": 5,
-  "imageUrl": "",
-    "movieName": "EIBAR VS REAL MADRID"
+  "imageUrl": "https://i.ytimg.com/vi/W_QSDopXMoA/maxresdefault.jpg",
+    "movieName": "VALENCIA VS SEVILLA"
+  },
+    {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/DDP7XraFm0c/maxresdefault.jpg",
+    "movieName": "ELCHE VS OSASUNA"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/DDP7XraFm0c/maxresdefault.jpg",
+    "movieName": "ELCHE VS OSASUNA"
   },
   {
     "bannerCategoryId": "3",
     "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/2-w7zzkFhCI/maxresdefault.jpg",
+    "movieName": "HUESCA VS LEVANTE"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
     "id": 5,
-  "imageUrl": "",
-    "movieName": "EIBAR VS REAL MADRID"
+  "imageUrl": "https://i.ytimg.com/vi/2-w7zzkFhCI/maxresdefault.jpg",
+    "movieName": "HUESCA VS LEVANTE"
   },
- 
-  
- 
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
+    "movieName": "REAL SOCIEDAD VS ATHLETICO MADRID"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
+    "movieName": "REAL SOCIEDAD VS ATHLETICO MADRID"
+  },
+ {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
+    "movieName": "REAL VALLADOILD VS BARCELONA"
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
+    "movieName": "Villarreal vs Athletic Club"
+
+      },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
+    "movieName": "Villarreal vs Athletic Club"
+
+  },
+      {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
+    "movieName": "REAL VALLADOILD VS BARCELONA"
+
+      },
   {
     "bannerCategoryId": "4",
     "fileUrl": "",
     "id": 6,
-     "imageUrl": "",
-    "movieName": "Lazio vs Napoli"
+     "imageUrl": "https://i.ytimg.com/vi/T_KfdXfJ5dk/maxresdefault.jpg",
+    "movieName": "CROTONE VS PARMA"
   },
   {
     "bannerCategoryId": "4",
     "fileUrl": "",
     "id": 6,
-     "imageUrl": "",
-    "movieName": "Lazio vs Napoli"
+      "imageUrl": "https://i.ytimg.com/vi/T_KfdXfJ5dk/maxresdefault.jpg",
+    "movieName": "CROTONE VS PARMA"
+  },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+     "imageUrl": "https://i.ytimg.com/vi/gHsvX4ONeMQ/maxresdefault.jpg",
+    "movieName": "JUVENTUS VS FIORENTINA"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/gHsvX4ONeMQ/maxresdefault.jpg",
+    "movieName": "JUVENTUS VS FIORENTINA"
   },
   {
     "bannerCategoryId": "5",
     "fileUrl": "",
     "id": 1,
-     "imageUrl": "",
-    "movieName":"Wolfsburg vs Stuttgart"
+     "imageUrl": "https://i.ytimg.com/vi/XGFk6WkcYBo/maxresdefault.jpg",
+    "movieName":"AUGSBURG VS RB LEPIZIG"
+  },
+  {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 1,
+     "imageUrl": "https://i.ytimg.com/vi/Qit4OHt60WE/maxresdefault.jpg",
+    "movieName":"Eintracht Braunschweig vs Borussia Dortmund"
+  },
+  {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 1,
+     "imageUrl": "https://i.ytimg.com/vi/XGFk6WkcYBo/maxresdefault.jpg",
+    "movieName":"AUGSBURG VS RB LEPIZIG"
   },
    {
     "bannerCategoryId": "5",
     "fileUrl": "",
     "id": 2,
-     "imageUrl": "",
-    "movieName": "Wolfsburg vs Stuttgart"
+     "imageUrl": "https://betzoid.com/imgs/predict-img/elversberg-borussia-mgladbach-22-12-2020.jpg",
+    "movieName": "Elversberg vs Borussia M'gladbach"
   }
   
  
