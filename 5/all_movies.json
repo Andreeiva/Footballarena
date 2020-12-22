@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 5,
-		"categoryTitle": "BUNDELIGA",
+		"categoryTitle": "DFB POKAL",
 		"categoryItemList": [ {
     "bannerCategoryId": "5",
     "fileUrl": "",
@@ -25,7 +25,7 @@
   },
    {
     "bannerCategoryId": "5",
-    "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "id": 2,
      "imageUrl": "https://betzoid.com/imgs/predict-img/elversberg-borussia-mgladbach-22-12-2020.jpg",
     "movieName": "Elversberg vs Borussia M'gladbach"
