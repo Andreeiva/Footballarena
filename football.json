@@ -7,7 +7,7 @@
 },
   {
     "bannerCategoryId": "1",
-           "fileUrl": "",
+           "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6132/index.m3u8",
     "id": 8,
     "imageUrl": "https://i.ytimg.com/vi/5-yA-dmxTc8/maxresdefault.jpg",
     "movieName": "BRENTFORD VS NEWCASTLE"
@@ -30,14 +30,14 @@
  
   {
     "bannerCategoryId": "2",
-         "fileUrl": "http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8",
+        "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "id": 8,
     "imageUrl": "https://i.ytimg.com/vi/5-yA-dmxTc8/maxresdefault.jpg",
     "movieName": "BRENTFORD VS NEWCASTLE"
 },
   {
-    "bannerCategoryId": "2",
-           "fileUrl": "",
+    "bannerCategoryId": "1",
+           "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6132/index.m3u8",
     "id": 8,
     "imageUrl": "https://i.ytimg.com/vi/5-yA-dmxTc8/maxresdefault.jpg",
     "movieName": "BRENTFORD VS NEWCASTLE"
