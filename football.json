@@ -118,30 +118,17 @@
     "movieName": "REAL VALLADOILD VS BARCELONA"
 
       },
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6125/index.m3u8",
-    "id": 6,
-     "imageUrl": "https://i.ytimg.com/vi/T_KfdXfJ5dk/maxresdefault.jpg",
-    "movieName": "CROTONE VS PARMA"
-  },
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6074/index.m3u8",
-    "id": 6,
-      "imageUrl": "https://i.ytimg.com/vi/T_KfdXfJ5dk/maxresdefault.jpg",
-    "movieName": "CROTONE VS PARMA"
-  },
+ 
    {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6125/index.m3u8",
     "id": 6,
      "imageUrl": "https://i.ytimg.com/vi/gHsvX4ONeMQ/maxresdefault.jpg",
     "movieName": "JUVENTUS VS FIORENTINA"
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2527/index.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/gHsvX4ONeMQ/maxresdefault.jpg",
     "movieName": "JUVENTUS VS FIORENTINA"
