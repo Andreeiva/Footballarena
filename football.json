@@ -58,58 +58,31 @@
     "movieName": "ARSENAL VS MANCHESTER CITY"
 },
  
-      {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6123/index.m3u8",
-    "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/W_QSDopXMoA/maxresdefault.jpg",
-    "movieName": "VALENCIA VS SEVILLA"
-  },
-      {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6073/index.m3u8",
-    "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/W_QSDopXMoA/maxresdefault.jpg",
-    "movieName": "VALENCIA VS SEVILLA"
-  },
-    {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6126/index.m3u8",
-    "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/DDP7XraFm0c/maxresdefault.jpg",
-    "movieName": "ELCHE VS OSASUNA"
-  },
-      {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6126/index.m3u8",
-    "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/DDP7XraFm0c/maxresdefault.jpg",
-    "movieName": "ELCHE VS OSASUNA"
-  },
+    
   {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6126/index.m3u8",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/2-w7zzkFhCI/maxresdefault.jpg",
     "movieName": "HUESCA VS LEVANTE"
   },
       {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6126/index.m3u8",
     "id": 5,
   "imageUrl": "https://i.ytimg.com/vi/2-w7zzkFhCI/maxresdefault.jpg",
     "movieName": "HUESCA VS LEVANTE"
   },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "https://storage.googleapis.com/dailycl14/2/2.m3u8",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
     "movieName": "REAL SOCIEDAD VS ATHLETICO MADRID"
   },
       {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6073/index.m3u8",
     "id": 5,
   "imageUrl": "https://i.ytimg.com/vi/ooPRTNb1z18/maxresdefault.jpg",
     "movieName": "REAL SOCIEDAD VS ATHLETICO MADRID"
