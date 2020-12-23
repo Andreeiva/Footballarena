@@ -1,91 +1,189 @@
 [  
   {
     "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+       "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
-    "movieName": "ARSENAL VS MANCHESTER CITY"
+    "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
+    "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
 },
 
    {
     "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+     "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
-    "movieName": "ARSENAL VS MANCHESTER CITY"
+    "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
+    "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
 },
- 
   {
-    "bannerCategoryId": "2",
-       "fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+    "bannerCategoryId": "1",
+       "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
-    "movieName": "ARSENAL VS MANCHESTER CITY"
+    "imageUrl": "https://i.ytimg.com/vi/DQ5tBfRcOiE/maxresdefault.jpg",
+    "movieName": "EVERTON VS MANCHESTER UNITED"
+},
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+    "imageUrl": "https://i.ytimg.com/vi/DQ5tBfRcOiE/maxresdefault.jpg",
+    "movieName": "EVERTON VS MANCHESTER UNITED"
 },
 
    {
     "bannerCategoryId": "2",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+          "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
-    "movieName": "ARSENAL VS MANCHESTER CITY"
+    "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
+    "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
 },
- 
+
+   {
+    "bannerCategoryId": "2",
+     "fileUrl": "",
+    "id": 8,
+    "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
+    "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
+},
+  {
+    "bannerCategoryId": "2",
+       "fileUrl": "",
+    "id": 8,
+    "imageUrl": "https://i.ytimg.com/vi/DQ5tBfRcOiE/maxresdefault.jpg",
+    "movieName": "EVERTON VS MANCHESTER UNITED"
+},
+  {
+    "bannerCategoryId": "2",
+       "fileUrl": "",
+    "id": 8,
+    "imageUrl": "https://i.ytimg.com/vi/DQ5tBfRcOiE/maxresdefault.jpg",
+    "movieName": "EVERTON VS MANCHESTER UNITED"
+},
     
 
  {
     "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2522/index.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/BELdfAb7T8c/maxresdefault.jpg",
-    "movieName": "REAL VALLADOILD VS BARCELONA"
+  "imageUrl": "https://i.ytimg.com/vi/ONDKBn31-jM/maxresdefault.jpg",
+    "movieName": "GETAFE VS CELTA VIGO"
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2522/index.m3u8",
+    "fileUrl": "",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/BELdfAb7T8c/maxresdefault.jpg",
-    "movieName": "REAL VALLADOILD VS BARCELONA"
+    "movieName": "REAL MADRID VS GRANADA"
   },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/BELdfAb7T8c/maxresdefault.jpg",
+    "movieName": "REAL MADRID VS GRANADA"
+  },
+      
       {
     "bannerCategoryId": "3",
-    "fileUrl": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
+    "fileUrl": "",
     "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
-    "movieName": "Villarreal vs Athletic Club"
+  "imageUrl": "https://i.ytimg.com/vi/GUrNXuJBNNk/maxresdefault.jpg",
+    "movieName": "DEPORTIVO ALAVEZ VS EIBAR"
 
       },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
-    "movieName": "Villarreal vs Athletic Club"
+  "imageUrl": "https://lfpicserv.com/match_img/preview-475840_en.png",
+    "movieName": "REAL BETIS VS CADIZ"
 
   },
      
  
    {
     "bannerCategoryId": "4",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "fileUrl": "",
     "id": 6,
-     "imageUrl": "https://i.ytimg.com/vi/gHsvX4ONeMQ/maxresdefault.jpg",
-    "movieName": "JUVENTUS VS FIORENTINA"
+     "imageUrl": "https://i.ytimg.com/vi/gB-vuZxHVso/maxresdefault.jpg",
+    "movieName": "Hellas Verona vs Internazionale"
+  },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+     "imageUrl": "https://i.ytimg.com/vi/gB-vuZxHVso/maxresdefault.jpg",
+    "movieName": "Hellas Verona vs Internazionale"
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2527/index.m3u8",
+    "fileUrl": "",
     "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/gHsvX4ONeMQ/maxresdefault.jpg",
-    "movieName": "JUVENTUS VS FIORENTINA"
+       "imageUrl": "https://i.ytimg.com/vi/mt9wrM2AdOU/hqdefault.jpg",
+    "movieName": "BOLOGNA VS ATALANTA"
+  },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/7BsATIOJmkY/maxresdefault.jpg",
+    "movieName": "AC MILAN VS LAZIO"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/7BsATIOJmkY/maxresdefault.jpg",
+    "movieName": "AC MILAN VS LAZIO"
+  },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/VLwYF4rnx_U/maxresdefault.jpg",
+    "movieName": "NAPOLI VS TORINO"
+  },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/5d5XIxe-ofs/maxresdefault.jpg",
+    "movieName": "Roma vs Cagliari"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/1YJ_2LaPFtM/hqdefault.jpg",
+    "movieName": "Sampdoria vs Sassuolo"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/TYJOtpgPYws/maxresdefault.jpg",
+    "movieName": "SPEZIA VS GENOA"
+  },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/mH68SzxUKXI/maxresdefault.jpg",
+    "movieName": "Udinese vs Benevento"
   },
   
    {
     "bannerCategoryId": "5",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+    "fileUrl": "",
     "id": 2,
-     "imageUrl": "https://img.bundesliga.com/tachyon/sites/2/2020/12/DFB_Cup_H2H_EBSBVB_HD.jpg?crop=0px,0px,1200px,675px&fit=1140",
-    "movieName": "Eintracht Braunschweig vs Borussia Dortmund"
+     "imageUrl": "https://i.ytimg.com/vi/1GcIp7OF2So/maxresdefault.jpg",
+    "movieName": "Wolfsburg vs Sandhausen"
+  },
+   {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 2,
+     "imageUrl": "https://i.ytimg.com/vi/1GcIp7OF2So/maxresdefault.jpg",
+    "movieName": "	Stuttgart vs Freiburg"
   }
   
  
