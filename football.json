@@ -1,7 +1,7 @@
 [  
   {
     "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "id": 8,
     "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
     "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
@@ -9,7 +9,7 @@
 
    {
     "bannerCategoryId": "1",
-     "fileUrl": "",
+     "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "id": 8,
     "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
     "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
@@ -31,7 +31,15 @@
 
    {
     "bannerCategoryId": "2",
-          "fileUrl": "",
+         "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "id": 8,
+    "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
+    "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
+},
+
+   {
+    "bannerCategoryId": "1",
+     "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "id": 8,
     "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
     "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
