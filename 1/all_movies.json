@@ -4,18 +4,32 @@
 		"categoryTitle": "EFL CARABAO CUP",
 		"categoryItemList": [{
   "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "fileUrl": "",
     "id": 8,
-    "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
-    "movieName": "ARSENAL VS MANCHESTER CITY"
+    "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
+    "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
 },
 
    {
     "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+     "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/8AK487DV22c/maxresdefault.jpg",
-    "movieName": "ARSENAL VS MANCHESTER CITY"
+    "imageUrl": "https://i.ytimg.com/vi/pVx923RvFrI/maxresdefault.jpg",
+    "movieName": "STOKE CITY VS TOTTENHAM HOTSPURS"
+},
+  {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+    "imageUrl": "https://i.ytimg.com/vi/DQ5tBfRcOiE/maxresdefault.jpg",
+    "movieName": "EVERTON VS MANCHESTER UNITED"
+},
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+    "imageUrl": "https://i.ytimg.com/vi/DQ5tBfRcOiE/maxresdefault.jpg",
+    "movieName": "EVERTON VS MANCHESTER UNITED"
 }]
 	},
 				     
@@ -27,32 +41,41 @@
 		"categoryItemList": [
       {
     "bannerCategoryId": "3",
-"fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2522/index.m3u8",
+ "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/BELdfAb7T8c/maxresdefault.jpg",
-    "movieName": "REAL VALLADOILD VS BARCELONA"
+  "imageUrl": "https://i.ytimg.com/vi/ONDKBn31-jM/maxresdefault.jpg",
+    "movieName": "GETAFE VS CELTA VIGO"
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2522/index.m3u8",
+    "fileUrl": "",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/BELdfAb7T8c/maxresdefault.jpg",
-    "movieName": "REAL VALLADOILD VS BARCELONA"
+    "movieName": "REAL MADRID VS GRANADA"
   },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/BELdfAb7T8c/maxresdefault.jpg",
+    "movieName": "REAL MADRID VS GRANADA"
+  },
+      
       {
     "bannerCategoryId": "3",
-    "fileUrl": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
+    "fileUrl": "",
     "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
-    "movieName": "Villarreal vs Athletic Club"
+  "imageUrl": "https://i.ytimg.com/vi/GUrNXuJBNNk/maxresdefault.jpg",
+    "movieName": "DEPORTIVO ALAVEZ VS EIBAR"
 
       },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/TUbETLPKqOE/maxresdefault.jpg",
-    "movieName": "Villarreal vs Athletic Club"
+  "imageUrl": "https://lfpicserv.com/match_img/preview-475840_en.png",
+    "movieName": "REAL BETIS VS CADIZ"
+
   }
 		
 		]
