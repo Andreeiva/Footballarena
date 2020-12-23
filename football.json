@@ -35,31 +35,9 @@
     
 
 
-   {
-    "bannerCategoryId": "3",
-    "fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
-    "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/Jj62cACkkpM/maxresdefault.jpg",
-    "movieName": "REAL MADRID VS GRANADA"
-  },
-   {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6083/index.m3u8",
-    "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/Jj62cACkkpM/maxresdefault.jpg",
-    "movieName": "REAL MADRID VS GRANADA"
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6123/index.m3u8",
-    "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/Jj62cACkkpM/maxresdefault.jpg",
-    "movieName": "REAL MADRID VS GRANADA"
-  },
-      
       {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "https://storage.googleapis.com/dailycl14/11/11.m3u8",
     "id": 5,
   "imageUrl": "https://i.ytimg.com/vi/GUrNXuJBNNk/maxresdefault.jpg",
     "movieName": "DEPORTIVO ALAVEZ VS EIBAR"
@@ -67,7 +45,7 @@
       },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6083/index.m3u8",
     "id": 4,
   "imageUrl": "https://lfpicserv.com/match_img/preview-475840_en.png",
     "movieName": "REAL BETIS VS CADIZ"
