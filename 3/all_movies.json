@@ -4,17 +4,17 @@
 "categoryItemList": [{
 
     "bannerCategoryId": "3",
-     "fileUrl": "https://storage.googleapis.com/dailycl14/11/11.m3u8",
+     "fileUrl": "",
     "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/GUrNXuJBNNk/maxresdefault.jpg",
+  "imageUrl": "",
     "movieName": "DEPORTIVO ALAVEZ VS EIBAR"
 
       },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6083/index.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://lfpicserv.com/match_img/preview-475840_en.png",
+  "imageUrl": "",
     "movieName": "REAL BETIS VS CADIZ"
 
 		}
