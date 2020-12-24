@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "EFL CARABAO CUP",
+		"categoryTitle": "ENGLISH PREMIER LEAGUE",
 		"categoryItemList": [{
   "bannerCategoryId": "1",
        "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2526/index.m3u8",
@@ -22,7 +22,7 @@
 		
         {		     
 		"categoryId": 2,
-		"categoryTitle": "SPANISH LA LIGA",
+		"categoryTitle": "FRENCH LIGUE 1",
 		"categoryItemList": [
       {
     "bannerCategoryId": "3",
