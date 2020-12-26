@@ -4,17 +4,31 @@
 		"categoryTitle": "ENGLISH PREMIER LEAGUE",
 		"categoryItemList": [{
   "bannerCategoryId": "1",
-       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2526/index.m3u8",
+       "fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
     "id": 8,
-    "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257",
-    "movieName": "EVERTON VS MANCHESTER UNITED"
+    "imageUrl": "hhttps://images.ctfassets.net/m9eoef61mee6/c3vzMsNubginnE6X3N9yh/eba39486537aa75c39c996c955d4a0c7/manchester-vs-leicester.jpg",
+    "movieName": "LEICESTER CITY VS MANCHESTER UNITED"
+},
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "hhttps://images.ctfassets.net/m9eoef61mee6/c3vzMsNubginnE6X3N9yh/eba39486537aa75c39c996c955d4a0c7/manchester-vs-leicester.jpg",
+    "movieName": "LEICESTER CITY VS MANCHESTER UNITED"
 },
   {
-    "bannerCategoryId": "2",
-       "fileUrl": "",
+    "bannerCategoryId": "1",
+       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
     "id": 8,
-    "imageUrl": "",
-    "movieName": "EVERTON VS MANCHESTER UNITED"
+  "imageUrl": "hhttps://images.ctfassets.net/m9eoef61mee6/c3vzMsNubginnE6X3N9yh/eba39486537aa75c39c996c955d4a0c7/manchester-vs-leicester.jpg",
+    "movieName": "LEICESTER CITY VS MANCHESTER UNITED"
+},
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "hhttps://images.ctfassets.net/m9eoef61mee6/c3vzMsNubginnE6X3N9yh/eba39486537aa75c39c996c955d4a0c7/manchester-vs-leicester.jpg",
+    "movieName": "LEICESTER CITY VS MANCHESTER UNITED"
 				     
 		}
 		]
