@@ -5,27 +5,21 @@
 		"categoryItemList": [
 				     {
     "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/cWFrl_fzhm8/maxresdefault.jpg",
-    "movieName": "LEEDS UNITED VS BURNLEY"
-} ,{
-    "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/cWFrl_fzhm8/maxresdefault.jpg",
-    "movieName": "LEEDS UNITED VS BURNLEY"
-},
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/H9-1O7APzXI/maxresdefault.jpg",
     "movieName": "WESTHAM VS BRIGHTON "
 },
     {
     "bannerCategoryId": "1",
-       "fileUrl": "",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/H9-1O7APzXI/maxresdefault.jpg",
+    "movieName": "WESTHAM VS BRIGHTON "
+},
+    {
+    "bannerCategoryId": "1",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/H9-1O7APzXI/maxresdefault.jpg",
     "movieName": "WESTHAM VS BRIGHTON "
