@@ -1,47 +1,45 @@
-
 [{
 		"categoryId": 1,
 		"categoryTitle": "ENGLISH PREMIER LEAGUE",
-		"categoryItemList": [
-				     {
-    "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/lTSyB66d91Y/maxresdefault.jpg",
-    "movieName": "CRYSTAL PALACE VS LEICESTER"
-},
- 
- {
-    "bannerCategoryId": "1",
-       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/lTSyB66d91Y/maxresdefault.jpg",
-    "movieName": "CRYSTAL PALACE VS LEICESTER"
-},
-		
-				     
-		
-        {		     
+		"categoryItemList": [{
+			"bannerCategoryId": "1",
+			"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+			"id": 8,
+			"imageUrl": "https://i.ytimg.com/vi/lTSyB66d91Y/maxresdefault.jpg",
+			"movieName": "CRYSTAL PALACE VS LEICESTER"
+		}]
+	},
+
+	{
+		"bannerCategoryId": "1",
+		"fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
+		"id": 8,
+		"imageUrl": "https://i.ytimg.com/vi/lTSyB66d91Y/maxresdefault.jpg",
+		"movieName": "CRYSTAL PALACE VS LEICESTER"
+	},
+
+
+
+	{
 		"categoryId": 2,
 		"categoryTitle": "FRENCH LIGUE 1",
-		"categoryItemList": [
-      {
-    "bannerCategoryId": "3",
-     "fileUrl": "",
-    "id": 5,
-  "imageUrl": "",
-    "movieName": "DEPORTIVO ALAVEZ VS EIBAR"
+		"categoryItemList": [{
+				"bannerCategoryId": "3",
+				"fileUrl": "",
+				"id": 5,
+				"imageUrl": "",
+				"movieName": "DEPORTIVO ALAVEZ VS EIBAR"
 
-      },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "",
-    "id": 4,
-  "imageUrl": "",
-    "movieName": "REAL BETIS VS CADIZ"
+			},
+			{
+				"bannerCategoryId": "3",
+				"fileUrl": "",
+				"id": 4,
+				"imageUrl": "",
+				"movieName": "REAL BETIS VS CADIZ"
 
-  }
-		
+			}
+
 		]
 	}
 ]
