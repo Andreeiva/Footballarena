@@ -3,24 +3,74 @@
 		"categoryTitle": "ENGLISH PREMIER LEAGUE",
 		"categoryItemList": [{
 				"bannerCategoryId": "1",
-				"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+				  "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/dRAuagDEQvE/maxresdefault.jpg",
-    "movieName": "CHELSEA VS ASTON VILLA"
+  "imageUrl": "https://i.ytimg.com/vi/SfTpU5MkK3s/maxresdefault.jpg",
+    "movieName": "BRIGHTON VS ARENAL"
+},
+  
+  {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/SfTpU5MkK3s/maxresdefault.jpg",
+    "movieName": "BRIGHTON VS ARENAL"
+},
+  {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/CgJtdqRBcH4/maxresdefault.jpg",
+    "movieName": "BURNLEY VS SHEFFIELD UNITED"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/CgJtdqRBcH4/maxresdefault.jpg",
+    "movieName": "BURNLEY VS SHEFFIELD UNITED"
  },
   {
     "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+       "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/dRAuagDEQvE/maxresdefault.jpg",
-    "movieName": "CHELSEA VS ASTON VILLA"
+  "imageUrl": "https://i.ytimg.com/vi/RG5Ujn14X4M/maxresdefault.jpg",
+    "movieName": "SOUTHAMPTON VS WESTHAM UNITED"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/RG5Ujn14X4M/maxresdefault.jpg",
+    "movieName": "SOUTHAMPTON VS WESTHAM UNITED"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/xT-ntpVI5VM/maxresdefault.jpg",
+    "movieName": "WESTBROM VS LEEDS UNITED"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/xT-ntpVI5VM/maxresdefault.jpg",
+    "movieName": "WESTBROM VS LEEDS UNITED"
  },
   {
     "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+       "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/dRAuagDEQvE/maxresdefault.jpg",
-    "movieName": "CHELSEA VS ASTON VILLA"
+  "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
+    "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
+    "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
 			}
 		]
 	},
@@ -28,21 +78,54 @@
 
 	{
 		"categoryId": 2,
-		"categoryTitle": "FRENCH LIGUE 1",
+		"categoryTitle": "A LIGA",
 		"categoryItemList": [{
 				"bannerCategoryId": "3",
 				"fileUrl": "",
-				"id": 5,
-				"imageUrl": "",
-				"movieName": "DEPORTIVO ALAVEZ VS EIBAR"
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/j8VlPAG0D0Y/maxresdefault.jpg",
+    "movieName": "SEVILLA VS VILLAREAL"
 
-			},
-			{
-				"bannerCategoryId": "3",
-				"fileUrl": "",
-				"id": 4,
-				"imageUrl": "",
-				"movieName": "REAL BETIS VS CADIZ"
+      },
+    {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 5,
+  "imageUrl": "https://i.ytimg.com/vi/j8VlPAG0D0Y/maxresdefault.jpg",
+    "movieName": "SEVILLA VS VILLAREAL"
+
+      },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/tkD2Cbwa2tg/maxresdefault.jpg",
+    "movieName": "BARCELONA VS EIBAR"
+
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/tkD2Cbwa2tg/maxresdefault.jpg",
+    "movieName": "BARCELONA VS EIBAR"
+
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/T3XBtH5PaS8/maxresdefault.jpg",
+    "movieName": "CADIZ VS REAL VALLADOLID"
+
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/RnEdrK4M1cI/maxresdefault.jpg",
+    "movieName": "LEVANTE VS REAL BETIS"
+
 
 			}
 
