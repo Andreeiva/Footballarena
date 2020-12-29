@@ -78,14 +78,21 @@
  },
   {
     "bannerCategoryId": "1",
-       "fileUrl": "",
+      "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
     "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
  },
    {
     "bannerCategoryId": "1",
-       "fileUrl": "",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
+    "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
     "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
