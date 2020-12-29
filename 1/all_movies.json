@@ -1,80 +1,10 @@
 [{
 		"categoryId": 1,
 		"categoryTitle": "ENGLISH PREMIER LEAGUE",
-		"categoryItemList": [{
-				"bannerCategoryId": "1",
-				  "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/SfTpU5MkK3s/maxresdefault.jpg",
-    "movieName": "BRIGHTON VS ARENAL"
-},
-  
-  {
-    "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/SfTpU5MkK3s/maxresdefault.jpg",
-    "movieName": "BRIGHTON VS ARENAL"
-},
+		"categoryItemList": [
    {
     "bannerCategoryId": "1",
-       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2561/index.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/SfTpU5MkK3s/maxresdefault.jpg",
-    "movieName": "BRIGHTON VS ARENAL"
-},
-  {
-    "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/CgJtdqRBcH4/maxresdefault.jpg",
-    "movieName": "BURNLEY VS SHEFFIELD UNITED"
- },
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/CgJtdqRBcH4/maxresdefault.jpg",
-    "movieName": "BURNLEY VS SHEFFIELD UNITED"
- },
-  {
-    "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/RG5Ujn14X4M/maxresdefault.jpg",
-    "movieName": "SOUTHAMPTON VS WESTHAM UNITED"
- },
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/RG5Ujn14X4M/maxresdefault.jpg",
-    "movieName": "SOUTHAMPTON VS WESTHAM UNITED"
- },
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/RG5Ujn14X4M/maxresdefault.jpg",
-    "movieName": "SOUTHAMPTON VS WESTHAM UNITED"
- },
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/xT-ntpVI5VM/maxresdefault.jpg",
-    "movieName": "WESTBROM VS LEEDS UNITED"
- },
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2547/index.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/xT-ntpVI5VM/maxresdefault.jpg",
-    "movieName": "WESTBROM VS LEEDS UNITED"
- },
-  {
-    "bannerCategoryId": "1",
-        "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+      "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
     "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
