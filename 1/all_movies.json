@@ -125,15 +125,16 @@
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "bannerCategoryId": "3",
+    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/T3XBtH5PaS8/maxresdefault.jpg",
-    "movieName": "CADIZ VS REAL VALLADOLID"
+  "imageUrl": "https://i.ytimg.com/vi/RnEdrK4M1cI/maxresdefault.jpg",
+    "movieName": "LEVANTE VS REAL BETIS"
 
   },
-   {
+  {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2523/index.m3u8",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/RnEdrK4M1cI/maxresdefault.jpg",
     "movieName": "LEVANTE VS REAL BETIS"
