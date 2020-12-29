@@ -96,22 +96,6 @@
 		"categoryItemList": [{
 				"bannerCategoryId": "3",
 				 "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/j8VlPAG0D0Y/maxresdefault.jpg",
-    "movieName": "SEVILLA VS VILLAREAL"
-
-      },
-    {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
-    "id": 5,
-  "imageUrl": "https://i.ytimg.com/vi/j8VlPAG0D0Y/maxresdefault.jpg",
-    "movieName": "SEVILLA VS VILLAREAL"
-
-      },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/tkD2Cbwa2tg/maxresdefault.jpg",
     "movieName": "BARCELONA VS EIBAR"
@@ -119,11 +103,18 @@
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2523/index.m3u8",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/tkD2Cbwa2tg/maxresdefault.jpg",
     "movieName": "BARCELONA VS EIBAR"
 
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6083/index.m3u8",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/tkD2Cbwa2tg/maxresdefault.jpg",
+    "movieName": "BARCELONA VS EIBAR"
   },
    {
     "bannerCategoryId": "3",
