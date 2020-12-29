@@ -158,14 +158,14 @@
     "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
  },
    {
-    "bannerCategoryId": "1",
+    "bannerCategoryId": "2",
        "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
     "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
  },
    {
-    "bannerCategoryId": "1",
+    "bannerCategoryId": "2",
        "fileUrl": "http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
@@ -205,7 +205,7 @@
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6083/index.m3u8",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/T3XBtH5PaS8/maxresdefault.jpg",
     "movieName": "CADIZ VS REAL VALLADOLID"
@@ -213,7 +213,15 @@
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/RnEdrK4M1cI/maxresdefault.jpg",
+    "movieName": "LEVANTE VS REAL BETIS"
+
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2523/index.m3u8",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/RnEdrK4M1cI/maxresdefault.jpg",
     "movieName": "LEVANTE VS REAL BETIS"
