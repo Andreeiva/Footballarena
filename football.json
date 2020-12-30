@@ -2,58 +2,45 @@
   
  
   
-  {
-    "bannerCategoryId": "1",
-       "fileUrl": "",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/CyNFCwWQWpo/maxresdefault.jpg",
-    "movieName": "tottenham vs fulham"
- },
+ 
    {
     "bannerCategoryId": "1",
-       "fileUrl": "",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/CyNFCwWQWpo/maxresdefault.jpg",
-    "movieName": "tottenham vs fulham"
- },
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "",
+       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
     "movieName": "Newcastle united vs Liverpool"
  },
   {
     "bannerCategoryId": "1",
-       "fileUrl": "",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
     "movieName": "Newcastle united vs Liverpool"
  },
   {
     "bannerCategoryId": "2",
-     "fileUrl": "",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/CyNFCwWQWpo/maxresdefault.jpg",
-    "movieName": "tottenham vs fulham"
- },
-   {
-    "bannerCategoryId": "2",
-       "fileUrl": "",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/CyNFCwWQWpo/maxresdefault.jpg",
-    "movieName": "tottenham vs fulham"
- },
-   {
-    "bannerCategoryId": "2",
-       "fileUrl": "",
+     "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
     "movieName": "Newcastle united vs Liverpool"
  },
   {
     "bannerCategoryId": "2",
-       "fileUrl": "",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
+ },
+   {
+    "bannerCategoryId": "2",
+       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
     "movieName": "Newcastle united vs Liverpool"
