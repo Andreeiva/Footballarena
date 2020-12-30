@@ -4,24 +4,31 @@
 		"categoryItemList": [
    {
     "bannerCategoryId": "1",
-      "fileUrl": "",
+    "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
-    "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
+  "imageUrl": "https://i.ytimg.com/vi/CyNFCwWQWpo/maxresdefault.jpg",
+    "movieName": "tottenham vs fulham"
  },
    {
     "bannerCategoryId": "1",
        "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
-    "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
+  "imageUrl": "https://i.ytimg.com/vi/CyNFCwWQWpo/maxresdefault.jpg",
+    "movieName": "tottenham vs fulham"
  },
    {
     "bannerCategoryId": "1",
        "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/o-zpGVudK9k/maxresdefault.jpg",
-    "movieName": "MANCHESTER UNITED VS WOLVERHAMPTON WANDERERS"
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
+ },
+  {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
 			}
 		]
 	},
@@ -34,18 +41,50 @@
    {
     "bannerCategoryId": "3",
     "bannerCategoryId": "3",
-    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+   "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/RnEdrK4M1cI/maxresdefault.jpg",
-    "movieName": "LEVANTE VS REAL BETIS"
+  "imageUrl": "https://i.ytimg.com/vi/ACmKOGXToVE/maxresdefault.jpg",
+    "movieName": "Granada vs Valencia"
+
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/NtqhFScSvO0/maxresdefault.jpg",
+    "movieName": "Atlético Madrid vs Getafe"
+
+  },
+     {
+    "bannerCategoryId": "3",
+    "fileUrl": "h",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/NtqhFScSvO0/maxresdefault.jpg",
+    "movieName": "Atlético Madrid vs Getafe"
 
   },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2523/index.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/RnEdrK4M1cI/maxresdefault.jpg",
-    "movieName": "LEVANTE VS REAL BETIS"
+  "imageUrl": "https://i.ytimg.com/vi/6MDQUIgoeck/maxresdefault.jpg",
+    "movieName": "Celta de Vigo vs Huesca"
+
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/jQCgrGWtLSA/maxresdefault.jpg",
+    "movieName": "Elche vs Real madrid"
+
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/jQCgrGWtLSA/maxresdefault.jpg",
+    "movieName": "Elche vs Real madrid"
 
 
 			}
