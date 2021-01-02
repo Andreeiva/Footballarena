@@ -14,18 +14,52 @@
     "bannerCategoryId": "1",
        "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/ggU-kXdSQCQ/maxresdefault.jpg",
-    "movieName": "Manunited vs Aston Villa"
+  "imageUrl": "https://i.ytimg.com/vi/41ZHNyklAx8/maxresdefault.jpg",
+    "movieName": "Crystal palace vs Sheffield United"
+ },
+    {
+    "bannerCategoryId": "1",
+       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/PzeyAvp45O0/maxresdefault.jpg",
+    "movieName": "Brighton vs Wolves"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/J-Q7OwCYGts/maxresdefault.jpg",
+    "movieName": "WESTBROM VS ARSENAL"
+ },
+
+    {
+    "bannerCategoryId": "2",
+       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/vG-whNw1AKs/maxresdefault.jpg",
+    "movieName": "Tottenham vs Leeds"
+ },
+  {
+    "bannerCategoryId": "2",
+       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/41ZHNyklAx8/maxresdefault.jpg",
+    "movieName": "Crystal palace vs Sheffield United"
  },
     {
     "bannerCategoryId": "2",
        "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/ggU-kXdSQCQ/maxresdefault.jpg",
-    "movieName": "Manunited vs Aston Villa"
+  "imageUrl": "https://i.ytimg.com/vi/PzeyAvp45O0/maxresdefault.jpg",
+    "movieName": "Brighton vs Wolves"
  },
-
-  
+   {
+    "bannerCategoryId": "2",
+       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/J-Q7OwCYGts/maxresdefault.jpg",
+    "movieName": "WESTBROM VS ARSENAL"
+ },
 
  
 
@@ -39,26 +73,34 @@
   
    {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 4,
-  "imageUrl": "",
-    "movieName": "Elche vs Real madrid"
+  "imageUrl": "https://i.ytimg.com/vi/sllxUBMT8Ks/maxresdefault.jpg",
+    "movieName": "Villareal vs Levante"
 
   },
    {
     "bannerCategoryId": "3",
     "fileUrl": "",
     "id": 4,
-  "imageUrl": "",
-    "movieName": "Elche vs Real madrid"
+  "imageUrl": "https://i.ytimg.com/vi/ShL5gjyoO_0/maxresdefault.jpg",
+    "movieName": "Real Betis vs Sevilla"
 
   },
   {
     "bannerCategoryId": "3",
     "fileUrl": "",
     "id": 4,
-  "imageUrl": "",
-    "movieName": "Elche vs Real madrid"
+  "imageUrl": "https://i.ytimg.com/vi/csak_q-p7AA/maxresdefault.jpg",
+    "movieName": "Getafe vs Real Valladolid"
+
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/q8m9WQChuT0/maxresdefault.jpg",
+    "movieName": "Real Madrid vs Celta Vigo"
 
   },
      
@@ -108,10 +150,30 @@
     "bannerCategoryId": "5",
     "fileUrl": "",
     "id": 2,
-     "imageUrl": "",
-    "movieName": "Stuttgart vs Freiburg"
+     "imageUrl": "https://i.ytimg.com/vi/XIBgPRATFHY/maxresdefault.jpg",
+    "movieName": "Eintracht Frankfurt vs Bayer Leverkusen"
+  },
+   {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 2,
+     "imageUrl": "https://i.ytimg.com/vi/A8Hh6mevk7Q/maxresdefault.jpg",
+    "movieName": "Arminia Bielefeld vs Borussia M'gladbach"
+  },
+   {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 2,
+     "imageUrl": "https://i.ytimg.com/vi/Y8qAGcQxVfA/maxresdefault.jpg",
+    "movieName": "Hertha BSC vs Schalke 04"
+  },
+   {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 2,
+     "imageUrl": "https://i.ytimg.com/vi/TjNdj33HABw/maxresdefault.jpg",
+    "movieName": "Stuttgart vs RB Leipzig"
   }
-  
  
  
  
