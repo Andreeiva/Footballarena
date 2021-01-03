@@ -89,7 +89,7 @@
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama145971/index.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/nvjM9mwBRQQ/maxresdefault.jpg",
     "movieName": "	Cagliari vs Napoli"
@@ -103,7 +103,7 @@
   },
    {
     "bannerCategoryId": "4",
-    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6128/index.m3u8",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama145970/index.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/3uqWIp4QdMI/maxresdefault.jpg",
     "movieName": "	Genoa vs Lazio"
