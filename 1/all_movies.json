@@ -34,22 +34,7 @@
 		"categoryItemList": [
  
 
-   {
-    "bannerCategoryId": "3",
-  "fileUrl": "https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/w6o15aize2fc9vn.m3u8?s=r7ph5Q8te_jywdkWYNi2qA&e=1609716153",
-    "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/-g_eMuxI93Y/maxresdefault.jpg",
-    "movieName": "Eibar vs Granada"
-
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/rmfhl85k.m3u8?s=lEtrmhmFVzhnaCLvEnaJqQ&e=1609716217",
-    "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/XChsCqlkGSY/maxresdefault.jpg",
-    "movieName": "Real Sociedad vs Osasuna"
-
-  },
+   
   {
     "bannerCategoryId": "3",
     "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
