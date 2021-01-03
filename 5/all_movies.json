@@ -1,23 +1,17 @@
 
 [{
 		"categoryId": 5,
-		"categoryTitle": "DFB POKAL",
+		"categoryTitle": "BUNDESLIGA",
 		"categoryItemList": [ 
    
-   {
-    "bannerCategoryId": "5",
-        "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "id": 2,
-     "imageUrl": "https://i.ytimg.com/vi/TjNdj33HABw/maxresdefault.jpg",
-    "movieName": "Borussia Dortmund vs Wolfsburg"
-  },
+ 
  
    {
     "bannerCategoryId": "5",
-    "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "fileUrl": "https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/oaa446jqf0418.m3u8?s=UnIMJubwcTQzCjVHU8T55Q&e=1609713840",
     "id": 2,
      "imageUrl": "https://i.ytimg.com/vi/DKHK5QRhxao/maxresdefault.jpg",
-    "movieName": "	Bayern München vs Mainz 05"
+    "movieName": "Bayern München vs Mainz 05"
   }
   
 		
