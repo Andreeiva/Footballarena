@@ -4,16 +4,10 @@
 		"categoryTitle": "Serie A",
 		"categoryItemList": [
  
- {
-    "bannerCategoryId": "4",
-    "fileUrl": "https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/j98bqmnd0.m3u8?s=OZvUrR9IF8gWfggx7wcvhA&e=1609712730",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/Y6PTAB_POSM/maxresdefault.jpg",
-    "movieName": "	Benevento vs Milan"
-  },
+
   {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/DzLPKJ0J2ss/maxresdefault.jpg",
     "movieName": "Juventus vs Udinese"
