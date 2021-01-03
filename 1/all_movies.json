@@ -7,10 +7,21 @@
    
    {
     "bannerCategoryId": "1",
+      "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/R34Zy3OZkGI/maxresdefault.jpg",
+    "movieName": "Newcastle United vs Leicester City"
+ },
+
+ 
+ 
+    
+   {
+    "bannerCategoryId": "1",
        "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/J-Q7OwCYGts/maxresdefault.jpg",
-    "movieName": "WESTBROM VS ARSENAL"
+  "imageUrl": "https://i.ytimg.com/vi/XU789-qQGUE/maxresdefault.jpg",
+    "movieName": "Chelsea vs Manchester City"
  }
 		]
 	},
@@ -24,10 +35,43 @@
 
    {
     "bannerCategoryId": "3",
+   "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/D0BjZcdj56I/maxresdefault.jpg",
+    "movieName": "Athletic Club vs Elche"
+
+  },
+  {
+    "bannerCategoryId": "3",
     "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/q8m9WQChuT0/maxresdefault.jpg",
-    "movieName": "Real Madrid vs Celta Vigo"
+  "imageUrl": "https://i.ytimg.com/vi/34RTnLS4rEg/maxresdefault.jpg",
+    "movieName": "Deportivo Alavés vs Atlético Madrid"
+
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/-g_eMuxI93Y/maxresdefault.jpg",
+    "movieName": "Eibar vs Granada"
+
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/XChsCqlkGSY/maxresdefault.jpg",
+    "movieName": "Real Sociedad vs Osasuna"
+
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/tWr-e2cPSko/maxresdefault.jpg",
+    "movieName": "Huesca vs Barcelona"
+
 
 
 			}
