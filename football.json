@@ -29,7 +29,7 @@
    
   {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama146135/index.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/5sNvnpk_2YQ/maxresdefault.jpg",
     "movieName": "ATALANTA VS PARMA"
@@ -64,7 +64,7 @@
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama146134/index.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/nr7VF_1tq8w/maxresdefault.jpg",
     "movieName": "	Sassuolo vs Genoa"
