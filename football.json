@@ -52,7 +52,7 @@
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama146212/index.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/6uieYn9Ygkc/maxresdefault.jpg",
     "movieName": "Milan vs Juventus"
