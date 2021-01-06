@@ -26,13 +26,7 @@
 
   
   },
-    {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://87.120.36.62:8080/hls/streama146089/index.m3u8",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/7k5xoK0-UgA/maxresdefault.jpg",
-    "movieName": "Cagliari vs Benevento"
-  },
+   
   {
     "bannerCategoryId": "4",
     "fileUrl": "",
@@ -42,28 +36,28 @@
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6129/index.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/6R2XoGsQT6I/maxresdefault.jpg",
     "movieName": "BOLOGNA VS UDINESE"
   },
      {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/5sNvnpk_2YQ/maxresdefault.jpg",
     "movieName": "CROTONE VS ROMA"
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/J5a1fF-FMuQ/maxresdefault.jpg",
     "movieName": "LAZIO VS FIORENTINA"
   },
      {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/PYGQ_kD76s0/maxresdefault.jpg",
     "movieName": "SAMPDORIA VS INTER"
@@ -77,7 +71,7 @@
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/8OM2MCrCosc/maxresdefault.jpg",
     "movieName": "Torino vs Hellas Verona"
