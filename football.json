@@ -1,18 +1,12 @@
 [   
    {
     "bannerCategoryId": "1",
-       "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+       "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/jwfD1_0oc5U/maxresdefault.jpg",
-    "movieName": "TOTTENHAM VS BRENTFORD"
+  "imageUrl": "https://cdn.insidesport.co/wp-content/uploads/2021/01/06121459/132590444_2264105153723291_8273891455835569353_o.jpg",
+    "movieName": "MUTD VS MANCITY"
  },
- {
-    "bannerCategoryId": "2",
-       "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/1cZrfSroq5I/maxresdefault.jpg",
-    "movieName": "SOUTHAMPTON VS LIVERPOOL"
- },
+
 
  
  
@@ -25,10 +19,10 @@
    
   {
     "bannerCategoryId": "3",
-    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/tWr-e2cPSko/maxresdefault.jpg",
-    "movieName": "Huesca vs Barcelona"
+  "imageUrl": "https://i.ytimg.com/vi/W3wGjmcnNJE/maxresdefault.jpg",
+    "movieName": "Athletic club vs Barcelona"
 
   
   },
