@@ -32,20 +32,75 @@
 
   
   },
-  
-  {
+    {
     "bannerCategoryId": "4",
-    "fileUrl": "https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/j98bqmnd0.m3u8?s=OZvUrR9IF8gWfggx7wcvhA&e=1609712730",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama146089/index.m3u8",
     "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/Y6PTAB_POSM/maxresdefault.jpg",
-    "movieName": "	Benevento vs Milan"
+       "imageUrl": "https://i.ytimg.com/vi/7k5xoK0-UgA/maxresdefault.jpg",
+    "movieName": "Cagliari vs Benevento"
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "fileUrl": "",
     "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/DzLPKJ0J2ss/maxresdefault.jpg",
-    "movieName": "Juventus vs Udinese"
+       "imageUrl": "https://i.ytimg.com/vi/5sNvnpk_2YQ/maxresdefault.jpg",
+    "movieName": "ATALANTA VS PARMA"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/6R2XoGsQT6I/maxresdefault.jpg",
+    "movieName": "BOLOGNA VS UDINESE"
+  },
+     {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/5sNvnpk_2YQ/maxresdefault.jpg",
+    "movieName": "CROTONE VS ROMA"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/J5a1fF-FMuQ/maxresdefault.jpg",
+    "movieName": "LAZIO VS FIORENTINA"
+  },
+     {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/PYGQ_kD76s0/maxresdefault.jpg",
+    "movieName": "SAMPDORIA VS INTER"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/nr7VF_1tq8w/maxresdefault.jpg",
+    "movieName": "	Sassuolo vs Genoa"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/8OM2MCrCosc/maxresdefault.jpg",
+    "movieName": "Torino vs Hellas Verona"
+  },
+     {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/jAVp3j9HECQ/maxresdefault.jpg",
+    "movieName": "	Napoli vs Spezia"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/6uieYn9Ygkc/maxresdefault.jpg",
+    "movieName": "Milan vs Juventus"
   },
  
   
