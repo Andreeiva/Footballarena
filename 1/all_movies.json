@@ -1,6 +1,6 @@
 [{
 		"categoryId": 1,
-		"categoryTitle": "CARABAO CUP",
+		"categoryTitle": "FRNCH LEAGUE ONE",
 		"categoryItemList": [
    
 
@@ -8,10 +8,18 @@
    {
    
     "bannerCategoryId": "1",
-     "fileUrl": "",
+     "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2538/index.m3u8",
     "id": 8,
-  "imageUrl": "https://cdn.insidesport.co/wp-content/uploads/2021/01/06121459/132590444_2264105153723291_8273891455835569353_o.jpg",
-    "movieName": "MUTD VS MANCITY"
+  "imageUrl": "https://i.ytimg.com/vi/VWafnOfs5ZQ/hqdefault.jpg",
+    "movieName": "BREST VS NICE"
+ },
+			 {
+   
+    "bannerCategoryId": "1",
+     "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6082/index.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/6sI3tUs_OXg/maxresdefault.jpg",
+    "movieName": "Nantes vs Rennes"
  }
 
  
