@@ -1,17 +1,24 @@
 [   
    {
     "bannerCategoryId": "1",
-       "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "id": 8,
-  "imageUrl": "https://cdn.insidesport.co/wp-content/uploads/2021/01/06121459/132590444_2264105153723291_8273891455835569353_o.jpg",
-    "movieName": "MUTD VS MANCITY"
- },
-    {
-    "bannerCategoryId": "1",
        "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "id": 8,
-  "imageUrl": "https://cdn.insidesport.co/wp-content/uploads/2021/01/06121459/132590444_2264105153723291_8273891455835569353_o.jpg",
-    "movieName": "MUTD VS MANCITY"
+  "imageUrl": "https://i.ytimg.com/vi/2MHF8Gtr7Tw/maxresdefault.jpg",
+    "movieName": "Aston Villa vs Liverpool"
+ },
+  {
+    "bannerCategoryId": "1",
+       "fileUrl": "https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/2MHF8Gtr7Tw/maxresdefault.jpg",
+    "movieName": "Aston Villa vs Liverpool"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/2MHF8Gtr7Tw/maxresdefault.jpg",
+    "movieName": "Wolves vs Crystal palace"
  },
 
 
@@ -26,19 +33,19 @@
    
   {
     "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2561/index.m3u8",
+    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/W3wGjmcnNJE/maxresdefault.jpg",
-    "movieName": "Athletic club vs Barcelona"
+  "imageUrl": "https://i.ytimg.com/vi/XUNh_20bHSg/maxresdefault.jpg",
+    "movieName": "Celtaa Vigo vs Villareal"
 
   
   },
-    {
+   {
     "bannerCategoryId": "3",
-    "fileUrl": "https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2538/index.m3u8",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/W3wGjmcnNJE/maxresdefault.jpg",
-    "movieName": "Athletic club vs Barcelona"
+  "imageUrl": "https://i.ytimg.com/vi/XUNh_20bHSg/maxresdefault.jpg",
+    "movieName": "Celtaa Vigo vs Villareal"
 
   
   },
@@ -67,10 +74,10 @@
  
    {
     "bannerCategoryId": "5",
-    "fileUrl": "https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/oaa446jqf0418.m3u8?s=UnIMJubwcTQzCjVHU8T55Q&e=1609713840",
+    "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 2,
-     "imageUrl": "https://i.ytimg.com/vi/DKHK5QRhxao/maxresdefault.jpg",
-    "movieName": "	Bayern München vs Mainz 05"
+     "imageUrl": "https://i.ytimg.com/vi/6_hfRbpFyY8/maxresdefault.jpg",
+    "movieName": "monchengladbach vs bayern munich"
   }
  
  
