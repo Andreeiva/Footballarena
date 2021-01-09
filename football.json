@@ -89,10 +89,18 @@
     "movieName": "	Genoa vs Bologna"
   
   },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "http://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/BOW4p95Or9w/hqdefault.jpg",
+    "movieName": "	Genoa vs Bologna"
+  
+  },
    
      {
     "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "https://i.ytimg.com/vi/czyjpBdNyrA/maxresdefault.jpg",
     "id": 6,
        "imageUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "movieName": "Milan vs Torino"
