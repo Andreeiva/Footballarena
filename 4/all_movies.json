@@ -8,29 +8,31 @@
  
      {
     "bannerCategoryId": "4",
-    "fileUrl": "http://87.120.36.62:8080/hls/streama146429/index.m3u8",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/Aut1nK60cRg/maxresdefault.jpg",
-    "movieName": "Benevento vs Atalanta"
-  },
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://87.120.36.62:8080/hls/streama146212/index.m3u8",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/BOW4p95Or9w/hqdefault.jpg",
     "movieName": "	Genoa vs Bologna"
   
   },
+    {
+    "bannerCategoryId": "4",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama146429/index.m3u8",
+    "id": 6,
+       "imageUrl": "https://i.ytimg.com/vi/BOW4p95Or9w/hqdefault.jpg",
+    "movieName": "	Genoa vs Bologna"
+  
+  },
+   
      {
     "bannerCategoryId": "4",
-    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "fileUrl": "",
     "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/czyjpBdNyrA/maxresdefault.jpg",
+       "imageUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "movieName": "Milan vs Torino"
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "http://87.120.36.62:8080/hls/streama146212/index.m3u8",
+    "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/czyjpBdNyrA/maxresdefault.jpg",
     "movieName": "Milan vs Torino"
