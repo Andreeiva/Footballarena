@@ -1,28 +1,15 @@
 [   
+   
    {
     "bannerCategoryId": "1",
        "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/RRMuYsmW3ho/maxresdefault.jpg",
-    "movieName": "Everton vs Rotherham United"
- },
-  {
-    "bannerCategoryId": "1",
-       "fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
-    "id": 8,
-  "imageUrl": "https://cdn.cardiffcityfc.co.uk/sites/default/files/2020-12/emirates-fa-cup-2020-21-02-countdown--ceb53fc5-1f93-40a2-a9be-5aa197c1c3bd.png",
-    "movieName": "Nottingham Forest vs Cardiff City"
- },
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/bHZZFUy8bN0/maxresdefault.jpg",
     "movieName": "Stoke City vs Leicester city"
  },
     {
     "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+       "fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
     "id": 8,
   "imageUrl": "https://i.ytimg.com/vi/qHI4nWOFBQ8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC1BseXiwR62FWmqN9uVXr4TM7g9g",
     "movieName": "Burnley vs MK Dons"
