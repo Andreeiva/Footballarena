@@ -39,27 +39,19 @@
  
  
    
-  {
+ 
+     {
     "bannerCategoryId": "3",
     "fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/cEcXmNnLUdg/maxresdefault.jpg",
-    "movieName": "Sevilla vs Real Sociedad"
+  "imageUrl": "https://i.ytimg.com/vi/8ux3Isyh9Ns/maxresdefault.jpg",
+    "movieName": "Granada vs Barcelona"
 
   
   },
-   {
+      {
     "bannerCategoryId": "3",
-    "fileUrl": "",
-    "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/Ptlcz1wjqCs/maxresdefault.jpg",
-    "movieName": "	Atlético Madrid vs Athletic Club"
-
-  
-  },
-     {
-    "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2560/index.m3u8",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/8ux3Isyh9Ns/maxresdefault.jpg",
     "movieName": "Granada vs Barcelona"
@@ -68,7 +60,16 @@
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/WBicEhizvF0/maxresdefault.jpg",
+    "movieName": "Osasuna vs Real Madrid"
+
+  
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://dailysportbucket3.s3.eu-west-3.amazonaws.com/1/1.m3u8",
     "id": 4,
   "imageUrl": "https://i.ytimg.com/vi/WBicEhizvF0/maxresdefault.jpg",
     "movieName": "Osasuna vs Real Madrid"
@@ -76,16 +77,18 @@
   
   },
    
+ 
   {
     "bannerCategoryId": "4",
-    "fileUrl": "http://87.120.36.62:8080/hls/streama146429/index.m3u8",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/Aut1nK60cRg/maxresdefault.jpg",
-    "movieName": "Benevento vs Atalanta"
+       "imageUrl": "https://i.ytimg.com/vi/BOW4p95Or9w/hqdefault.jpg",
+    "movieName": "	Genoa vs Bologna"
+  
   },
-  {
+    {
     "bannerCategoryId": "4",
-    "fileUrl": "http://87.120.36.62:8080/hls/streama146212/index.m3u8",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/BOW4p95Or9w/hqdefault.jpg",
     "movieName": "	Genoa vs Bologna"
