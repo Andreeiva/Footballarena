@@ -73,36 +73,14 @@
   },
    
  
-  {
-    "bannerCategoryId": "4",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/BOW4p95Or9w/hqdefault.jpg",
-    "movieName": "	Genoa vs Bologna"
+ 
   
-  },
-    {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://87.120.36.62:8080/hls/streama146429/index.m3u8",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/BOW4p95Or9w/hqdefault.jpg",
-    "movieName": "	Genoa vs Bologna"
-  
-  },
-   {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/BOW4p95Or9w/hqdefault.jpg",
-    "movieName": "	Genoa vs Bologna"
-  
-  },
    
      {
     "bannerCategoryId": "4",
-    "fileUrl": "https://i.ytimg.com/vi/czyjpBdNyrA/maxresdefault.jpg",
+    "fileUrl": "http://87.120.36.62:8080/hls/streama146459/index.m3u8",
     "id": 6,
-       "imageUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+       "imageUrl": "https://i.ytimg.com/vi/czyjpBdNyrA/maxresdefault.jpg",
     "movieName": "Milan vs Torino"
   },
   {
