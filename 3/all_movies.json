@@ -7,19 +7,37 @@
  
    {
     "bannerCategoryId": "3",
-  "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+  "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/XUNh_20bHSg/maxresdefault.jpg",
-    "movieName": "Celtaa Vigo vs Villareal"
+  "imageUrl": "https://i.ytimg.com/vi/cEcXmNnLUdg/maxresdefault.jpg",
+    "movieName": "Sevilla vs Real Sociedad"
 
   
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2538/index.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/XUNh_20bHSg/maxresdefault.jpg",
-    "movieName": "Celtaa Vigo vs Villareal"
+  "imageUrl": "https://i.ytimg.com/vi/Ptlcz1wjqCs/maxresdefault.jpg",
+    "movieName": "	Atlético Madrid vs Athletic Club"
+
+  
+  },
+     {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/8ux3Isyh9Ns/maxresdefault.jpg",
+    "movieName": "Granada vs Barcelona"
+
+  
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/WBicEhizvF0/maxresdefault.jpg",
+    "movieName": "Osasuna vs Real Madrid"
 
 		}
 
