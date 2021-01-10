@@ -3,44 +3,9 @@
 		"categoryId": 4,
 		"categoryTitle": "Serie A",
 		"categoryItemList": [
- 
-
- 
-     {
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/fefvaM1ZMZg/maxresdefault.jpg",
-    "movieName": "Parma vs Lazio"
-  
-  },
-				       {
-    "bannerCategoryId": "4",
-     "fileUrl": "https://gma2.blab.email/espn2.m3u8",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/fefvaM1ZMZg/maxresdefault.jpg",
-    "movieName": "Parma vs Lazio"
-  
-  },
    {
     "bannerCategoryId": "4",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/tLM6SvCru7s/hqdefault.jpg",
-    "movieName": "	Udinese vs Napoli"
-  
-  },
-   {
-    "bannerCategoryId": "4",
-    "fileUrl": "http://livecdn.fptplay.net/italyfootball/seriea07_2000.stream/chunklist.m3u8",
-    "id": 6,
-       "imageUrl": "https://i.ytimg.com/vi/pw-oX7QjR0M/maxresdefault.jpg",
-    "movieName": "Hellas Verona vs Crotone"
-  
-  },
-   {
-    "bannerCategoryId": "4",
-    "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "id": 6,
        "imageUrl": "https://i.ytimg.com/vi/OygJunkMEFU/maxresdefault.jpg",
     "movieName": "Fiorentina vs Cagliari"
