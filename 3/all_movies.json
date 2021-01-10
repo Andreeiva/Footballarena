@@ -8,19 +8,29 @@
    
    {
     "bannerCategoryId": "3",
-    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/WBicEhizvF0/maxresdefault.jpg",
-    "movieName": "Osasuna vs Real Madrid"
+  "imageUrl": "https://i.ytimg.com/vi/JJ5AuaGgM50/maxresdefault.jpg",
+    "movieName": "Lvante vs Eibar"
 
   
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "https://dailysportbucket3.s3.eu-west-3.amazonaws.com/1/1.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/WBicEhizvF0/maxresdefault.jpg",
-    "movieName": "Osasuna vs Real Madrid"
+  "imageUrl": "https://i.ytimg.com/vi/3jPdAohUhpc/maxresdefault.jpg",
+    "movieName": "Cádiz vs Deportivo Alavés"
+
+  
+  },
+    {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/G9bT1hEiyn0/maxresdefault.jpg",
+    "movieName": "Real Valladolid vs Valencia"
+
 
 		}
 
