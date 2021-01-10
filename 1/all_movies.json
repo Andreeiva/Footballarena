@@ -8,10 +8,50 @@
    
    {
     "bannerCategoryId": "1",
-       "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+        "fileUrl": "",
     "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/H0sFyKGu9bQ/maxresdefault.jpg",
-    "movieName": "Manchester United vs Watford"
+  "imageUrl": "https://i.ytimg.com/vi/_IRLYf3LM_Y/maxresdefault.jpg",
+    "movieName": "Bristol City vs Portsmouth"
+ },
+     {
+ 
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/tFjJBLIVieA/maxresdefault.jpg",
+    "movieName": "Manchester City vs Birmingham City"
+ },
+     {
+ 
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/2mo_fXppUdA/maxresdefault.jpg",
+    "movieName": "Chelsea vs Morecambe"
+ },
+     {
+ 
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/AOsJywbQI4o/maxresdefault.jpg",
+    "movieName": "Crawley Town vs Leeds United"
+ },
+     {
+ 
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/3cGBtRmhzG4/maxresdefault.jpg",
+    "movieName": "Marine vs Tottenham Hotspur"
+ },
+    {
+ 
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/phlYq6cS9DI/maxresdefault.jpg",
+    "movieName": "Newport County vs Brighton & Hove Albion"
  }
 
  
@@ -24,26 +64,35 @@
 
 	{
 		"categoryId": 2,
-		"categoryTitle": "FRENCH LIGUE 1",
+		"categoryTitle": "LA LIGA",
 		"categoryItemList": [
  
 
    
   {
     "bannerCategoryId": "3",
- "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6127/index.m3u8",
+ "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/SkIDbC00g2Y/maxresdefault.jpg",
-    "movieName": "PSG VS BREST"
+  "imageUrl": "https://i.ytimg.com/vi/JJ5AuaGgM50/maxresdefault.jpg",
+    "movieName": "Lvante vs Eibar"
 
   
   },
    {
     "bannerCategoryId": "3",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6128/index.m3u8",
+    "fileUrl": "",
     "id": 4,
-  "imageUrl": "https://i.ytimg.com/vi/5-8ss4rxAYs/maxresdefault.jpg",
-    "movieName": "Rennes vs Lyon"
+  "imageUrl": "https://i.ytimg.com/vi/3jPdAohUhpc/maxresdefault.jpg",
+    "movieName": "Cádiz vs Deportivo Alavés"
+
+  
+  },
+    {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/G9bT1hEiyn0/maxresdefault.jpg",
+    "movieName": "Real Valladolid vs Valencia"
 
 
 
