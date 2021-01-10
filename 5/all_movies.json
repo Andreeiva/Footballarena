@@ -8,9 +8,16 @@
  
    {
     "bannerCategoryId": "5",
-    "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+     "fileUrl": "",
     "id": 2,
-     "imageUrl": "https://i.ytimg.com/vi/caymKilZG-k/maxresdefault.jpg",
+     "imageUrl": "https://i.ytimg.com/vi/KpHlH5sRGhw/maxresdefault.jpg",
+    "movieName": "Augsburg vs Stuttgart"
+  },
+    {
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 2,
+     "imageUrl": "https://i.ytimg.com/vi/ZypedzeHjjo/maxresdefault.jpg",
     "movieName": "	RB Leipzig vs Borussia Dortmund"
   }
   
