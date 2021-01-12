@@ -3,15 +3,15 @@
 		"categoryId": 1,
 		"categoryTitle": "LA LIGA",
 		"categoryItemList": [{
-				  "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "id": 1,
-    "imageUrl": "https://i.ytimg.com/vi/O1_EFG68cWg/maxresdefault.jpg",
-    "movieName": "Granada vs Osasuna"
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+	  "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Rw8uvEzEap0/maxresdefault.jpg",
+    "movieName": "Atlético Madrid vs Sevilla"
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://dailysportbucket5.s3.eu-west-2.amazonaws.com/1/1.m3u8"
+      "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/Rw8uvEzEap0/maxresdefault.jpg",
     "movieName": "Atlético Madrid vs Sevilla"
 			}
