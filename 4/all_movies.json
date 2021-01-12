@@ -1,1 +1,13 @@
 
+[{
+		"categoryId": 1,
+		"categoryTitle": "COPPA ITALIA",
+		"categoryItemList": [{
+				"fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "id": 3,
+    "imageUrl": "https://i.ytimg.com/vi/iBJyOfXSMg0/maxresdefault.jpg",
+    "movieName": "AC Milan vs Torino"
+			}
+		]
+	}
+]
