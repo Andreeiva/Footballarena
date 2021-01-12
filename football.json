@@ -1,1 +1,77 @@
 
+[
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "",
+    "id": 1,
+    "imageUrl": "https://i.ytimg.com/vi/DWzFGSEwwIU/maxresdefault.jpg",
+    "movieName": "Sheffield United vs Newcastle United"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Svoc5-3uBlA/maxresdefault.jpg",
+    "movieName": "Wolves vs Everton"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "id": 3,
+    "imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
+    "movieName": "Burnley vs Manchester United"
+  },
+  {
+    "bannerCategoryId": "2",
+   "fileUrl": "",
+    "id": 1,
+    "imageUrl": "https://i.ytimg.com/vi/DWzFGSEwwIU/maxresdefault.jpg",
+    "movieName": "Sheffield United vs Newcastle United"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Svoc5-3uBlA/maxresdefault.jpg",
+    "movieName": "Wolves vs Everton"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "id": 3,
+    "imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
+    "movieName": "Burnley vs Manchester United"
+  },
+  
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8",
+    "id": 1,
+    "imageUrl": "https://i.ytimg.com/vi/O1_EFG68cWg/maxresdefault.jpg",
+    "movieName": "Granada vs Osasuna"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Rw8uvEzEap0/maxresdefault.jpg",
+    "movieName": "Atlético Madrid vs Sevilla"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8",
+    "id": 3,
+    "imageUrl": "https://i.ytimg.com/vi/iBJyOfXSMg0/maxresdefault.jpg",
+    "movieName": "AC Milan vs Torino"
+  },
+ 
+  {
+    "bannerCategoryId": "5",
+    "fileUrl": "https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 5,
+    "imageUrl": "https://i.computer-bild.de/imgs/1/3/7/1/7/7/6/9/DFB-Pokal-Leverkusen-Frankfurt-658x370-c8ede0e825871d3c.jpg",
+    "movieName": "Bayer Leverkusen vs Eintracht Frankfurt"
+  }
+ 
+ 
+]
