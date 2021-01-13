@@ -4,23 +4,16 @@
 		"categoryTitle": "English Premier League",
 		"categoryItemList": [{
 			 "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 1,
-    "imageUrl": "https://i.ytimg.com/vi/DWzFGSEwwIU/maxresdefault.jpg",
-    "movieName": "Sheffield United vs Newcastle United"
-  },
-  {
-    "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Svoc5-3uBlA/maxresdefault.jpg",
-    "movieName": "Wolves vs Everton"
+    "imageUrl": "https://i.ytimg.com/vi/WyxtQA9YouQ/maxresdefault.jpg",
+    "movieName": "Manchester City vs Brighton & Hove Albion"
   },
   {
     "bannerCategoryId": "1",
     "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 3,
-    "imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
-    "movieName": "Burnley vs Manchester United"
+    "imageUrl": "https://i.ytimg.com/vi/Mw0ezso4iWo/maxresdefault.jpg",
+    "movieName": "	Tottenham Hotspur vs Fulham"
 			}
 		]
 	}
