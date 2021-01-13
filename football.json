@@ -4,61 +4,61 @@
   
   {
     "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+    "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Svoc5-3uBlA/maxresdefault.jpg",
-    "movieName": "Wolves vs Everton"
+    "imageUrl": "https://i.ytimg.com/vi/WyxtQA9YouQ/maxresdefault.jpg",
+    "movieName": "Manchester City vs Brighton & Hove Albion"
   },
   {
     "bannerCategoryId": "1",
     "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 3,
-    "imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
-    "movieName": "Burnley vs Manchester United"
+    "imageUrl": "https://i.ytimg.com/vi/Mw0ezso4iWo/maxresdefault.jpg",
+    "movieName": "	Tottenham Hotspur vs Fulham"
   },
   {
     "bannerCategoryId": "2",
-   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+   "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Svoc5-3uBlA/maxresdefault.jpg",
-    "movieName": "Wolves vs Everton"
+    "imageUrl": "https://i.ytimg.com/vi/WyxtQA9YouQ/maxresdefault.jpg",
+    "movieName": "Manchester City vs Brighton & Hove Albion"
   },
   {
     "bannerCategoryId": "2",
     "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 3,
-    "imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
-    "movieName": "Burnley vs Manchester United"
+    "imageUrl": "https://i.ytimg.com/vi/Mw0ezso4iWo/maxresdefault.jpg",
+    "movieName": "	Tottenham Hotspur vs Fulham"
   },
   
  
   {
     "bannerCategoryId": "3",
-    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2523/index.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Rw8uvEzEap0/maxresdefault.jpg",
-    "movieName": "Atlético Madrid vs Sevilla"
+    "imageUrl": "https://i.ytimg.com/vi/DGwFP2RtQnQ/maxresdefault.jpg",
+    "movieName": "Real Sociedad vs Barcelona"
   },
-   {
+  {
     "bannerCategoryId": "3",
-    "fileUrl": "https://dailysportbucket5.s3.eu-west-2.amazonaws.com/1/1.m3u8",
-      "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Rw8uvEzEap0/maxresdefault.jpg",
-    "movieName": "Atlético Madrid vs Sevilla"
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2522/index.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/DGwFP2RtQnQ/maxresdefault.jpg",
+    "movieName": "Real Sociedad vs Barcelona"
   },
   {
     "bannerCategoryId": "4",
-    "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "fileUrl": "",
     "id": 3,
-    "imageUrl": "https://i.ytimg.com/vi/iBJyOfXSMg0/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "AC Milan vs Torino"
   },
  
   {
     "bannerCategoryId": "5",
-    "fileUrl": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
+    "fileUrl": "",
     "id": 5,
-    "imageUrl": "https://i.computer-bild.de/imgs/1/3/7/1/7/7/6/9/DFB-Pokal-Leverkusen-Frankfurt-658x370-c8ede0e825871d3c.jpg",
+    "imageUrl": "",
     "movieName": "Bayer Leverkusen vs Eintracht Frankfurt"
   }
  
