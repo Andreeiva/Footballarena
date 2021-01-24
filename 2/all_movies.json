@@ -1,20 +1,24 @@
-
 [{
-		"categoryId": 1,
-		"categoryTitle": "English Premier League",
+		"categoryId": 2,
+		"categoryTitle": "SUPERCUP",
 		"categoryItemList": [{
-			 "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+ "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2560/index.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/5IcGK_LhZAw/maxresdefault.jpg",
-    "movieName": "Arsenal vs Crystal Palace"
-  },
-  {
-    "bannerCategoryId": "1",
-    "fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+    "imageUrl": "https://i.ytimg.com/vi/1w6I8lDAQhk/maxresdefault.jpg",
+    "movieName": "Barcelona VS Athletic Club"
+			}
+		]
+	},
+	{
+		"categoryId": 2,
+		"categoryTitle": "SPANISH SUPER CUP",
+		"categoryItemList": [{
+	 "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2560/index.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/5IcGK_LhZAw/maxresdefault.jpg",
-    "movieName": "Arsenal vs Crystal Palace"
+    "imageUrl": "https://i.ytimg.com/vi/1w6I8lDAQhk/maxresdefault.jpg",
+    "movieName": "Barcelona VS Athletic Club"
 			}
 		]
 	}
+	
 ]
