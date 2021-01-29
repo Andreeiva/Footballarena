@@ -1,1 +1,24 @@
 
+[{
+		"categoryId": 3,
+		"categoryTitle": "SPANISH LA LIGA",
+		"categoryItemList": [
+
+			{
+				"bannerCategoryId": "1",
+				 "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/mF6Sg_PqkBY/maxresdefault.jpg",
+    "movieName": "Real Valladolid vs Huesca"
+  },
+	{
+				"bannerCategoryId": "1",
+				 "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/mF6Sg_PqkBY/maxresdefault.jpg",
+    "movieName": "Real Valladolid vs Huesca"
+  }
+
+
+		]
+	}
