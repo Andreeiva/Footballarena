@@ -6,28 +6,7 @@
 
 			{
 				"bannerCategoryId": "1",
-				"fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/_MLAlaVcajA/maxresdefault.jpg",
-    "movieName": "Bayern München vs Hoffenheim"
-  },
-	{
-    "bannerCategoryId": "5",
-   "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2522/index.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/-HSvnjXpxOw/maxresdefault.jpg",
-    "movieName": "Borussia Dortmund vs Augsburg"
-  },
-	{
-    "bannerCategoryId": "5",
-   "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6097/index.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/KSm1Jd3jiIQ/maxresdefault.jpg",
-    "movieName": "Werder Bremen vs Schalke 04"
-  },
-	{
-    "bannerCategoryId": "5",
-   "fileUrl": "",
+				 "fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/AUqDBnzfgKg/maxresdefault.jpg",
     "movieName": "RB Leipzig vs Bayer Leverkusen"
