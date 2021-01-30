@@ -6,18 +6,39 @@
 
 			{
 				"bannerCategoryId": "1",
-				  "bannerCategoryId": "3",
-   "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+				  
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/pVw5v385v_w/maxresdefault.jpg",
-    "movieName": "Villarreal vs Real Sociedad"
+    "imageUrl": "https://i.ytimg.com/vi/sXDpNM48mY8/maxresdefault.jpg",
+    "movieName": "Getafe vs Deportivo Alavés"
   },
 	 {
     "bannerCategoryId": "3",
-   "fileUrl": "https://dailysportbucket23.s3.eu-west-3.amazonaws.com/13/13.m3u8",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/pVw5v385v_w/maxresdefault.jpg",
-    "movieName": "Villarreal vs Real Sociedad"
+    "imageUrl": "https://i.ytimg.com/vi/G6xNFmNJJvU/maxresdefault.jpg",
+    "movieName": "Cádiz vs Atlético Madrid"
+  },
+	 {
+    "bannerCategoryId": "3",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/_6Bs8unFnEQ/maxresdefault.jpg",
+    "movieName": "Granada vs Celta de Vigo"
+  },
+	 {
+    "bannerCategoryId": "3",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/oF6_z8sqb2s/maxresdefault.jpg",
+    "movieName": "Barcelona vs Athletic Club"
+  },
+	 {
+    "bannerCategoryId": "3",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/oF6_z8sqb2s/maxresdefault.jpg",
+    "movieName": "Barcelona vs Athletic Club"
   }
 
 
