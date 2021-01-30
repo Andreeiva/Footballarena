@@ -6,10 +6,18 @@
 
 			{
 				"bannerCategoryId": "1",
-				 "fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+				 "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/AUqDBnzfgKg/maxresdefault.jpg",
-    "movieName": "RB Leipzig vs Bayer Leverkusen"
+    "imageUrl": "https://i.ytimg.com/vi/CElxSBU9ig4/hqdefault.jpg",
+    "movieName": "Köln vs Arminia Bielefeld"
+  },
+	
+	{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/6QmneHBREAw/maxresdefault.jpg",
+    "movieName": "Wolfsburg vs Freiburg"
   }
 
 
