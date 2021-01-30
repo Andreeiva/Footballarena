@@ -1,24 +1,96 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "SPANISH LA LIGA",
+		"categoryTitle": "EPL",
 		"categoryItemList": [
 
 			{
 				"bannerCategoryId": "1",
-				 "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
+				 "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/mF6Sg_PqkBY/maxresdefault.jpg",
-    "movieName": "Real Valladolid vs Huesca"
+    "imageUrl": "https://i.ytimg.com/vi/3uTc-EFy50M/maxresdefault.jpg",
+    "movieName": "Everton vs Newcastle United"
   },
 	{
-				"bannerCategoryId": "1",
-				 "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://img.youtube.com/vi/COERrhTfkak/0.jpg",
+        "movieName": "Crystal Palace vs Wolves"
+  },
+	 {
+    "bannerCategoryId": "1",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/mF6Sg_PqkBY/maxresdefault.jpg",
-    "movieName": "Real Valladolid vs Huesca"
+    "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
+    "movieName": "Mancity vs Sheffield United"
+  },
+	 {
+    "bannerCategoryId": "1",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
+    "movieName": "Mancity vs Sheffield United"
+  },
+	{
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XFEhirPwO8k/maxresdefault.jpg",
+        "movieName": "West Bromwich Albion vs Fulham"
+  },
+	{
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/g1yLVoeacoM/maxresdefault.jpg",
+        "movieName": "Arsenal vs Manchester United"
+  },
+	{
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/g1yLVoeacoM/maxresdefault.jpg",
+        "movieName": "Arsenal vs Manchester United"
+  },
+	{
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/ilu36iedL8M/maxresdefault.jpg",
+        "movieName": "Southampton vs Aston Villa"
+  },
+		
+			"categoryId": 1,
+		"categoryTitle": "LA LIGA",
+		"categoryItemList": [{
+				"bannerCategoryId": "1",
+				 "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/y0sc0hZfGTI/maxresdefault.jpg",
+    "movieName": "Eibar vs Sevilla"
+  },
+	 {
+    "bannerCategoryId": "3",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Ws0UYkRn7Ls/maxresdefault.jpg",
+    "movieName": "Real Madrid vs Levante"
+  },
+	 {
+    "bannerCategoryId": "3",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/jp_gPnk1nXQ/maxresdefault.jpg",
+    "movieName": "Valencia vs Elche"
+  },
+	 {
+    "bannerCategoryId": "3",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/pVw5v385v_w/maxresdefault.jpg",
+    "movieName": "Villarreal vs Real Sociedad"
   }
-
 
 		]
 	}
