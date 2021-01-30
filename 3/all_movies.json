@@ -6,14 +6,14 @@
 
 			{
 				"bannerCategoryId": "1",
-				"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+				 "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/y0sc0hZfGTI/maxresdefault.jpg",
-    "movieName": "Eibar vs Sevilla"
+    "imageUrl": "https://i.ytimg.com/vi/Ws0UYkRn7Ls/maxresdefault.jpg",
+    "movieName": "Real Madrid vs Levante"
   },
 	 {
     "bannerCategoryId": "3",
-   "fileUrl": "",
+   "fileUrl": "https://dailysportbucket23.s3.eu-west-3.amazonaws.com/13/13.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/Ws0UYkRn7Ls/maxresdefault.jpg",
     "movieName": "Real Madrid vs Levante"
