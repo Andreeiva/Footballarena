@@ -6,18 +6,45 @@
 
 			{
 				"bannerCategoryId": "1",
-				
-  "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+  "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/25zzV3FRvAI/maxresdefault.jpg",
-    "movieName": "Internazionale vs Benevento"
+    "imageUrl": "https://i.ytimg.com/vi/vkFOhB_YM6k/maxresdefault.jpg",
+    "movieName": "Spezia vs Udinese"
   },
 		{
     "bannerCategoryId": "4",
-   "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/25zzV3FRvAI/maxresdefault.jpg",
-    "movieName": "Internazionale vs Benevento"
+    "imageUrl": "https://i.ytimg.com/vi/H_hz8Kh2rIs/maxresdefault.jpg",
+    "movieName": "Crotone vs Genoa"
+  },
+		{
+    "bannerCategoryId": "4",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/ir0zranhzO8/maxresdefault.jpg",
+    "movieName": "Atalanta vs Lazio"
+  },
+		{
+    "bannerCategoryId": "4",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Nxg9c9OEstE/maxresdefault.jpg",
+    "movieName": "Cagliari vs Sassuolo"
+  },
+		{
+    "bannerCategoryId": "4",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/dyr7h0lCHxg/maxresdefault.jpg",
+    "movieName": "Napoli vs Parma"
+  },
+			{
+    "bannerCategoryId": "4",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Li0CW5Jt8jw/maxresdefault.jpg",
+    "movieName": "Roma vs Hellas Verona"
   }
 
 
