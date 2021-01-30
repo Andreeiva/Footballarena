@@ -6,21 +6,15 @@
 
 			{
 				"bannerCategoryId": "1",
-				  "fileUrl": "https://dailysportbucket23.s3.eu-west-3.amazonaws.com/13/13.m3u8",
+				  "bannerCategoryId": "3",
+   "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/jp_gPnk1nXQ/maxresdefault.jpg",
-    "movieName": "Valencia vs Elche"
+    "imageUrl": "https://i.ytimg.com/vi/pVw5v385v_w/maxresdefault.jpg",
+    "movieName": "Villarreal vs Real Sociedad"
   },
 	 {
     "bannerCategoryId": "3",
-   "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/jp_gPnk1nXQ/maxresdefault.jpg",
-    "movieName": "Valencia vs Elche"
-  },
-	 {
-    "bannerCategoryId": "3",
-   "fileUrl": "",
+   "fileUrl": "https://dailysportbucket23.s3.eu-west-3.amazonaws.com/13/13.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/pVw5v385v_w/maxresdefault.jpg",
     "movieName": "Villarreal vs Real Sociedad"
