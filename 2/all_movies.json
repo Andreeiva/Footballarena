@@ -8,19 +8,12 @@
 				"bannerCategoryId": "1",
 				"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/g1yLVoeacoM/maxresdefault.jpg",
-        "movieName": "Arsenal vs Manchester United"
+        "imageUrl": "https://i.ytimg.com/vi/ilu36iedL8M/maxresdefault.jpg",
+        "movieName": "Southampton vs Aston Villa"
   },
 	{
-	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/g1yLVoeacoM/maxresdefault.jpg",
-        "movieName": "Arsenal vs Manchester United"
-  },
-	{
-	"bannerCategoryId": "1",
-	"fileUrl": "",
+	"bannerCategoryId": "2",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/ilu36iedL8M/maxresdefault.jpg",
         "movieName": "Southampton vs Aston Villa"
