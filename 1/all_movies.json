@@ -59,9 +59,11 @@
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/ilu36iedL8M/maxresdefault.jpg",
         "movieName": "Southampton vs Aston Villa"
-  },
+    }
+  ]
+},
 		
-			"categoryId": 1,
+ {	"categoryId": 1,
 		"categoryTitle": "LA LIGA",
 		"categoryItemList": [{
 				"bannerCategoryId": "1",
