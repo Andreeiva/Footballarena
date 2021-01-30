@@ -129,16 +129,17 @@
     "imageUrl": "https://i.ytimg.com/vi/pVw5v385v_w/maxresdefault.jpg",
     "movieName": "Villarreal vs Real Sociedad"
   },
-	 {
-    "bannerCategoryId": "4",
-   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/2ug9waaIPGw/maxresdefault.jpg",
-    "movieName": "Bologna vs Milan"
-  },
+	
 	{
     "bannerCategoryId": "4",
-   "fileUrl": "",
+   "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/a2evpqQ0oY8/hqdefault.jpg",
+    "movieName": "Sampdoria vs Juventus"
+  },
+		{
+    "bannerCategoryId": "4",
+   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/a2evpqQ0oY8/hqdefault.jpg",
     "movieName": "Sampdoria vs Juventus"
