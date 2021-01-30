@@ -3,25 +3,196 @@
  
     
   {
-    "bannerCategoryId": "3",
-   "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
+    "bannerCategoryId": "1",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/mF6Sg_PqkBY/maxresdefault.jpg",
-    "movieName": "Real Valladolid vs Huesca"
+    "imageUrl": "https://i.ytimg.com/vi/3uTc-EFy50M/maxresdefault.jpg",
+    "movieName": "Everton vs Newcastle United"
   },
 	{
-				"bannerCategoryId": "1",
-				 "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6124/index.m3u8",
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://img.youtube.com/vi/COERrhTfkak/0.jpg",
+        "movieName": "Crystal Palace vs Wolves"
+  },
+	 {
+    "bannerCategoryId": "1",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/mF6Sg_PqkBY/maxresdefault.jpg",
-    "movieName": "Real Valladolid vs Huesca"
+    "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
+    "movieName": "Mancity vs Sheffield United"
+  },
+	 {
+    "bannerCategoryId": "1",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
+    "movieName": "Mancity vs Sheffield United"
+  },
+	{
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XFEhirPwO8k/maxresdefault.jpg",
+        "movieName": "West Bromwich Albion vs Fulham"
+  },
+	{
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/g1yLVoeacoM/maxresdefault.jpg",
+        "movieName": "Arsenal vs Manchester United"
+  },
+	{
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/g1yLVoeacoM/maxresdefault.jpg",
+        "movieName": "Arsenal vs Manchester United"
+  },
+	{
+	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/ilu36iedL8M/maxresdefault.jpg",
+        "movieName": "Southampton vs Aston Villa"
+  },
+	 {
+    "bannerCategoryId": "2",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/3uTc-EFy50M/maxresdefault.jpg",
+    "movieName": "Everton vs Newcastle United"
+  },
+	{
+	"bannerCategoryId": "2",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://img.youtube.com/vi/COERrhTfkak/0.jpg",
+        "movieName": "Crystal Palace vs Wolves"
+  },
+	 {
+    "bannerCategoryId": "2",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
+    "movieName": "Mancity vs Sheffield United"
+  },
+	 {
+    "bannerCategoryId": "2",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
+    "movieName": "Mancity vs Sheffield United"
+  },
+	{
+	"bannerCategoryId": "2",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XFEhirPwO8k/maxresdefault.jpg",
+        "movieName": "West Bromwich Albion vs Fulham"
+  },
+	{
+	"bannerCategoryId": "2",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/g1yLVoeacoM/maxresdefault.jpg",
+        "movieName": "Arsenal vs Manchester United"
+  },
+	{
+	"bannerCategoryId": "2",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/g1yLVoeacoM/maxresdefault.jpg",
+        "movieName": "Arsenal vs Manchester United"
+  },
+	{
+	"bannerCategoryId": "2",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/ilu36iedL8M/maxresdefault.jpg",
+        "movieName": "Southampton vs Aston Villa"
   },
     {
-    "bannerCategoryId": "4",
-   "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "bannerCategoryId": "3",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/8P8gYnNQ8V8/maxresdefault.jpg",
-    "movieName": "Torino vs Fiorentina"
-  }
+    "imageUrl": "https://i.ytimg.com/vi/y0sc0hZfGTI/maxresdefault.jpg",
+    "movieName": "Eibar vs Sevilla"
+  },
+	 {
+    "bannerCategoryId": "3",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Ws0UYkRn7Ls/maxresdefault.jpg",
+    "movieName": "Real Madrid vs Levante"
+  },
+	 {
+    "bannerCategoryId": "3",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/jp_gPnk1nXQ/maxresdefault.jpg",
+    "movieName": "Valencia vs Elche"
+  },
+	 {
+    "bannerCategoryId": "3",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/pVw5v385v_w/maxresdefault.jpg",
+    "movieName": "Villarreal vs Real Sociedad"
+  },
+	 {
+    "bannerCategoryId": "4",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/2ug9waaIPGw/maxresdefault.jpg",
+    "movieName": "Bologna vs Milan"
+  },
+	{
+    "bannerCategoryId": "4",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/a2evpqQ0oY8/hqdefault.jpg",
+    "movieName": "Sampdoria vs Juventus"
+  },
+	{
+    "bannerCategoryId": "4",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/25zzV3FRvAI/maxresdefault.jpg",
+    "movieName": "Internazionale vs Benevento"
+  },
+	{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/_MLAlaVcajA/maxresdefault.jpg",
+    "movieName": "Bayern München vs Hoffenheim"
+  },
+	{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/-HSvnjXpxOw/maxresdefault.jpg",
+    "movieName": "Borussia Dortmund vs Augsburg"
+  },
+	{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/KSm1Jd3jiIQ/maxresdefault.jpg",
+    "movieName": "Werder Bremen vs Schalke 04"
+  },
+	{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/AUqDBnzfgKg/maxresdefault.jpg",
+    "movieName": "RB Leipzig vs Bayer Leverkusen"
+  },
+	
+	
+	
  
 ]  
