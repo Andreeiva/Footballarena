@@ -2,44 +2,31 @@
 [
  
     
-  {
-    "bannerCategoryId": "1",
-   "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/3uTc-EFy50M/maxresdefault.jpg",
-    "movieName": "Everton vs Newcastle United"
-  },
-	 {
-    "bannerCategoryId": "1",
-   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/3uTc-EFy50M/maxresdefault.jpg",
-    "movieName": "Everton vs Newcastle United"
-  },
+ 
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://img.youtube.com/vi/COERrhTfkak/0.jpg",
         "movieName": "Crystal Palace vs Wolves"
   },
 	 {
     "bannerCategoryId": "1",
-   "fileUrl": "",
+   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
     "movieName": "Mancity vs Sheffield United"
   },
 	 {
     "bannerCategoryId": "1",
-   "fileUrl": "",
+   "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
     "movieName": "Mancity vs Sheffield United"
   },
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "",
+	"fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6130/index.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/XFEhirPwO8k/maxresdefault.jpg",
         "movieName": "West Bromwich Albion vs Fulham"
@@ -67,35 +54,28 @@
   },
 	 {
     "bannerCategoryId": "2",
-   "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/3uTc-EFy50M/maxresdefault.jpg",
-    "movieName": "Everton vs Newcastle United"
-  },
-	{
-	"bannerCategoryId": "2",
-	"fileUrl": "",
+ "fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://img.youtube.com/vi/COERrhTfkak/0.jpg",
         "movieName": "Crystal Palace vs Wolves"
   },
 	 {
     "bannerCategoryId": "2",
-   "fileUrl": "",
+   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
     "movieName": "Mancity vs Sheffield United"
   },
 	 {
     "bannerCategoryId": "2",
-   "fileUrl": "",
+   "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/mxtBoSrvh8M/maxresdefault.jpg",
     "movieName": "Mancity vs Sheffield United"
   },
 	{
 	"bannerCategoryId": "2",
-	"fileUrl": "",
+	"fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6130/index.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/XFEhirPwO8k/maxresdefault.jpg",
         "movieName": "West Bromwich Albion vs Fulham"
@@ -172,21 +152,21 @@
   },
 	{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+   "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/_MLAlaVcajA/maxresdefault.jpg",
     "movieName": "Bayern München vs Hoffenheim"
   },
 	{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+   "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2522/index.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/-HSvnjXpxOw/maxresdefault.jpg",
     "movieName": "Borussia Dortmund vs Augsburg"
   },
 	{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+   "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6097/index.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/KSm1Jd3jiIQ/maxresdefault.jpg",
     "movieName": "Werder Bremen vs Schalke 04"
