@@ -47,23 +47,10 @@
         "imageUrl": "https://i.ytimg.com/vi/ilu36iedL8M/maxresdefault.jpg",
         "movieName": "Southampton vs Aston Villa"
   },
-    {
-    "bannerCategoryId": "3",
-   "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Ws0UYkRn7Ls/maxresdefault.jpg",
-    "movieName": "Real Madrid vs Levante"
-  },
+   
 	 {
     "bannerCategoryId": "3",
    "fileUrl": "https://dailysportbucket23.s3.eu-west-3.amazonaws.com/13/13.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Ws0UYkRn7Ls/maxresdefault.jpg",
-    "movieName": "Real Madrid vs Levante"
-  },
-	 {
-    "bannerCategoryId": "3",
-   "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/jp_gPnk1nXQ/maxresdefault.jpg",
     "movieName": "Valencia vs Elche"
