@@ -1,1 +1,39 @@
 
+[{
+		"categoryId": 4,
+		"categoryTitle": "BUBDESLIGA",
+		"categoryItemList": [
+
+			{
+				"bannerCategoryId": "1",
+				 "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/_MLAlaVcajA/maxresdefault.jpg",
+    "movieName": "Bayern München vs Hoffenheim"
+  },
+	{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/-HSvnjXpxOw/maxresdefault.jpg",
+    "movieName": "Borussia Dortmund vs Augsburg"
+  },
+	{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/KSm1Jd3jiIQ/maxresdefault.jpg",
+    "movieName": "Werder Bremen vs Schalke 04"
+  },
+	{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/AUqDBnzfgKg/maxresdefault.jpg",
+    "movieName": "RB Leipzig vs Bayer Leverkusen"
+  }
+
+
+		]
+	}
+ ]
