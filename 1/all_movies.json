@@ -4,7 +4,7 @@
 		"categoryTitle": "EPL",
 		"categoryItemList": [{
 	"bannerCategoryId": "1",
-"bannerCategoryId": "1",
+
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/H2qB562_nVA/maxresdefault.jpg",
@@ -45,14 +45,14 @@
 		"categoryTitle": "LA LIGA",
 		"categoryItemList": [{
 				"bannerCategoryId": "1",
-				  "fileUrl": "",
+				   "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/sXDpNM48mY8/maxresdefault.jpg",
-    "movieName": "Getafe vs Deportivo Alavés"
+    "imageUrl": "https://i.ytimg.com/vi/G6xNFmNJJvU/maxresdefault.jpg",
+    "movieName": "Cádiz vs Atlético Madrid"
   },
 	 {
     "bannerCategoryId": "3",
-   "fileUrl": "",
+   "fileUrl": "https://dailysportbucket23.s3.eu-west-3.amazonaws.com/13/13.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/G6xNFmNJJvU/maxresdefault.jpg",
     "movieName": "Cádiz vs Atlético Madrid"
