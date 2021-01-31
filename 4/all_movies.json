@@ -4,21 +4,15 @@
 		"categoryTitle": "ITALIAN SERIE A",
 		"categoryItemList": [{
 "bannerCategoryId": "1",
- "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+  "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/dyr7h0lCHxg/maxresdefault.jpg",
-    "movieName": "Napoli vs Parma"
+    "imageUrl": "https://i.ytimg.com/vi/Li0CW5Jt8jw/maxresdefault.jpg",
+    "movieName": "Roma vs Hellas Verona"
   },
-	{
-    "bannerCategoryId": "4",
-   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/dyr7h0lCHxg/maxresdefault.jpg",
-    "movieName": "Napoli vs Parma"
-  },
+	
 			{
     "bannerCategoryId": "4",
-   "fileUrl": "",
+   "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/Li0CW5Jt8jw/maxresdefault.jpg",
     "movieName": "Roma vs Hellas Verona"
