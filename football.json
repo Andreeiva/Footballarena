@@ -50,23 +50,10 @@
   },
    
 	
+	 
 	 {
     "bannerCategoryId": "3",
    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/G6xNFmNJJvU/maxresdefault.jpg",
-    "movieName": "Cádiz vs Atlético Madrid"
-  },
-	 {
-    "bannerCategoryId": "3",
-   "fileUrl": "https://dailysportbucket23.s3.eu-west-3.amazonaws.com/13/13.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/G6xNFmNJJvU/maxresdefault.jpg",
-    "movieName": "Cádiz vs Atlético Madrid"
-  },
-	 {
-    "bannerCategoryId": "3",
-   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/_6Bs8unFnEQ/maxresdefault.jpg",
     "movieName": "Granada vs Celta de Vigo"
