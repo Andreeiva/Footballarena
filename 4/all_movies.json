@@ -2,32 +2,16 @@
 [{
 		"categoryId": 4,
 		"categoryTitle": "ITALIAN SERIE A",
-		"categoryItemList": [
-
-			{
-				"bannerCategoryId": "1",
-  "fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6133/index.m3u8",
+		"categoryItemList": [{
+"bannerCategoryId": "1",
+ "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/H_hz8Kh2rIs/maxresdefault.jpg",
-    "movieName": "Crotone vs Genoa"
+    "imageUrl": "https://i.ytimg.com/vi/dyr7h0lCHxg/maxresdefault.jpg",
+    "movieName": "Napoli vs Parma"
   },
-		{
+	{
     "bannerCategoryId": "4",
-   "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/ir0zranhzO8/maxresdefault.jpg",
-    "movieName": "Atalanta vs Lazio"
-  },
-		{
-    "bannerCategoryId": "4",
-   "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6126/index.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Nxg9c9OEstE/maxresdefault.jpg",
-    "movieName": "Cagliari vs Sassuolo"
-  },
-		{
-    "bannerCategoryId": "4",
-   "fileUrl": "",
+   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/dyr7h0lCHxg/maxresdefault.jpg",
     "movieName": "Napoli vs Parma"
