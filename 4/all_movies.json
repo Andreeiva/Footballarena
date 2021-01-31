@@ -6,28 +6,21 @@
 
 			{
 				"bannerCategoryId": "1",
-  "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/vkFOhB_YM6k/maxresdefault.jpg",
-    "movieName": "Spezia vs Udinese"
-  },
-		{
-    "bannerCategoryId": "4",
-   "fileUrl": "",
+  "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/H_hz8Kh2rIs/maxresdefault.jpg",
     "movieName": "Crotone vs Genoa"
   },
 		{
     "bannerCategoryId": "4",
-   "fileUrl": "",
+   "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/ir0zranhzO8/maxresdefault.jpg",
     "movieName": "Atalanta vs Lazio"
   },
 		{
     "bannerCategoryId": "4",
-   "fileUrl": "",
+   "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6126/index.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/Nxg9c9OEstE/maxresdefault.jpg",
     "movieName": "Cagliari vs Sassuolo"
