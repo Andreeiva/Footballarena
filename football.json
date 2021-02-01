@@ -6,14 +6,14 @@
 	
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/4N5zT3zMpN0/maxresdefault.jpg",
         "movieName": "Brighton vs Tottenham"
   },
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/4N5zT3zMpN0/maxresdefault.jpg",
         "movieName": "Brighton vs Tottenham"
@@ -22,14 +22,14 @@
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/4N5zT3zMpN0/maxresdefault.jpg",
         "movieName": "Brighton vs Tottenham"
   },
 	{
 	"bannerCategoryId": "2",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/4N5zT3zMpN0/maxresdefault.jpg",
         "movieName": "Brighton vs Tottenham"
@@ -41,14 +41,14 @@
 	 
 	 {
     "bannerCategoryId": "3",
-   "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/oF6_z8sqb2s/maxresdefault.jpg",
     "movieName": "Barcelona vs Athletic Club"
   },
 	 {
     "bannerCategoryId": "3",
-   "fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/oF6_z8sqb2s/maxresdefault.jpg",
     "movieName": "Barcelona vs Athletic Club"
@@ -57,7 +57,7 @@
 
 			{
     "bannerCategoryId": "4",
-   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/Li0CW5Jt8jw/maxresdefault.jpg",
     "movieName": "Roma vs Hellas Verona"
@@ -65,7 +65,7 @@
 	
 			{
     "bannerCategoryId": "4",
-   "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/Li0CW5Jt8jw/maxresdefault.jpg",
     "movieName": "Roma vs Hellas Verona"
