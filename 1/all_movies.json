@@ -4,14 +4,14 @@
 		"categoryTitle": "EPL",
 		"categoryItemList": [{
 	"bannerCategoryId": "1",
-"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/4N5zT3zMpN0/maxresdefault.jpg",
         "movieName": "Brighton vs Tottenham"
   },
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/4N5zT3zMpN0/maxresdefault.jpg",
         "movieName": "Brighton vs Tottenham"
@@ -22,14 +22,14 @@
  {	"categoryId": 1,
 		"categoryTitle": "LA LIGA",
 		"categoryItemList": [{
-	 "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+	 "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/oF6_z8sqb2s/maxresdefault.jpg",
     "movieName": "Barcelona vs Athletic Club"
   },
 	 {
     "bannerCategoryId": "3",
-   "fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/oF6_z8sqb2s/maxresdefault.jpg",
     "movieName": "Barcelona vs Athletic Club"
