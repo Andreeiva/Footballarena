@@ -7,14 +7,14 @@
 	
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
         "movieName": "ManUtd vs Southampton"
   },
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
         "movieName": "ManUtd vs Southampton"
@@ -23,7 +23,7 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_5aNnZB-rSA/maxresdefault.jpg",
         "movieName": "Newcastle vs Crystal Palace"
@@ -31,14 +31,14 @@
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
         "movieName": "ManUtd vs Southampton"
   },
 	{
 	"bannerCategoryId": "2",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
         "movieName": "ManUtd vs Southampton"
@@ -47,7 +47,7 @@
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_5aNnZB-rSA/maxresdefault.jpg",
         "movieName": "Newcastle vs Crystal Palace"
@@ -55,7 +55,7 @@
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_5aNnZB-rSA/maxresdefault.jpg",
         "movieName": "Newcastle vs Crystal Palace"
@@ -67,14 +67,14 @@
 	 
 	 {
     "bannerCategoryId": "3",
- "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
+ "fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/5KLXHa0ahQ0/maxresdefault.jpg",
         "movieName": "Almería vs Sevilla"
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/5KLXHa0ahQ0/maxresdefault.jpg",
         "movieName": "Almería vs Sevilla"
@@ -85,7 +85,7 @@
 	
 			{
     "bannerCategoryId": "4",
-    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/UInWnFwXFO8/maxresdefault.jpg",
     "movieName": "Internazionale vs Juventus"
@@ -94,7 +94,7 @@
 			
 			{
     "bannerCategoryId": "4",
-   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/UInWnFwXFO8/maxresdefault.jpg",
     "movieName": "Internazionale vs Juventus"
@@ -105,7 +105,7 @@
 	
 	{
     "bannerCategoryId": "5",
-   "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2555/index.m3u8",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/Entaqt4dDww/maxresdefault.jpg",
     "movieName": "Borussia Dortmund vs Paderborn"
