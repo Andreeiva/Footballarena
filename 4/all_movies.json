@@ -1,21 +1,22 @@
 
 [{
 		"categoryId": 4,
-		"categoryTitle": "ITALIAN SERIE A",
+		"categoryTitle": "COPA ITALIA",
 		"categoryItemList": [{
 "bannerCategoryId": "1",
-  "fileUrl": "",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/Li0CW5Jt8jw/maxresdefault.jpg",
-    "movieName": "Roma vs Hellas Verona"
+    "movieName": "Internazionale vs Juventus"
   },
 	
+			
 			{
     "bannerCategoryId": "4",
    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Li0CW5Jt8jw/maxresdefault.jpg",
-    "movieName": "Roma vs Hellas Verona"
+    "imageUrl": "https://i.ytimg.com/vi/UInWnFwXFO8/maxresdefault.jpg",
+    "movieName": "Internazionale vs Juventus"
   }
 
 
