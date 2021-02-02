@@ -68,14 +68,14 @@
  {	"categoryId": 1,
 		"categoryTitle": "COPA DEL REY",
 		"categoryItemList": [{
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/5KLXHa0ahQ0/maxresdefault.jpg",
         "movieName": "Almería vs Sevilla"
   },
 	{
-	"bannerCategoryId": "1",
-	"fileUrl": "",
+	"bannerCategoryId": "3",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/5KLXHa0ahQ0/maxresdefault.jpg",
         "movieName": "Almería vs Sevilla"
