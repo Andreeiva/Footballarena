@@ -6,58 +6,21 @@
 	"bannerCategoryId": "1",
 "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/V2mN-oNoQlU/maxresdefault.jpg",
-        "movieName": "Wolves vs Arsenal"
+        "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
+        "movieName": "ManUtd vs Southampton"
   },
-	
 	{
 	"bannerCategoryId": "1",
 	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/V2mN-oNoQlU/maxresdefault.jpg",
-        "movieName": "Wolves vs Arsenal"
+        "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
+        "movieName": "ManUtd vs Southampton"
   },
+	
 	{
 	"bannerCategoryId": "1",
+	
 	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/i06Bv74A3Ok/maxresdefault.jpg",
-        "movieName": "Sheffield vs West Brom"
-  },
-	{
-	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/i06Bv74A3Ok/maxresdefault.jpg",
-        "movieName": "Sheffield vs West Brom"
-  },
-	{
-	"bannerCategoryId": "1",
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
-        "movieName": "	ManUtd vs Southampton"
-  },
-	{
-	"bannerCategoryId": "1",
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
-        "movieName": "	ManUtd vs Southampton"
-  },
-	
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/_5aNnZB-rSA/maxresdefault.jpg",
-        "movieName": "Newcastle vs Crystal Palace"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_5aNnZB-rSA/maxresdefault.jpg",
         "movieName": "Newcastle vs Crystal Palace"
