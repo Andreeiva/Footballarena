@@ -5,7 +5,7 @@
 		"categoryItemList": [
 
 			{
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/V2mN-oNoQlU/maxresdefault.jpg",
         "movieName": "Wolves vs Arsenal"
@@ -13,21 +13,21 @@
 	
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/V2mN-oNoQlU/maxresdefault.jpg",
         "movieName": "Wolves vs Arsenal"
   },
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/i06Bv74A3Ok/maxresdefault.jpg",
         "movieName": "Sheffield vs West Brom"
   },
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/i06Bv74A3Ok/maxresdefault.jpg",
         "movieName": "Sheffield vs West Brom"
