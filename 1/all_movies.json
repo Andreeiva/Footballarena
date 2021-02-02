@@ -4,14 +4,14 @@
 		"categoryTitle": "ENGLISH PREMIER LEAGUE",
 		"categoryItemList": [{
 	"bannerCategoryId": "1",
-"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
         "movieName": "ManUtd vs Southampton"
   },
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
         "movieName": "ManUtd vs Southampton"
@@ -20,7 +20,7 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_5aNnZB-rSA/maxresdefault.jpg",
         "movieName": "Newcastle vs Crystal Palace"
@@ -31,14 +31,14 @@
  {	"categoryId": 1,
 		"categoryTitle": "COPA DEL REY",
 		"categoryItemList": [{
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/5KLXHa0ahQ0/maxresdefault.jpg",
         "movieName": "Almería vs Sevilla"
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/5KLXHa0ahQ0/maxresdefault.jpg",
         "movieName": "Almería vs Sevilla"
