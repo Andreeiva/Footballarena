@@ -7,45 +7,61 @@
 	
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/MSLSK80zqls/maxresdefault.jpg",
-        "movieName": "Fulham vs Leicester City"
+        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
+        "movieName": "Leeds United vs Everton"
   },
 	{
 	"bannerCategoryId": "1",
+	
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
+        "movieName": "Leeds United vs Everton"
+  },
+	{
+	"bannerCategoryId": "1",
+	
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/MSLSK80zqls/maxresdefault.jpg",
-        "movieName": "Fulham vs Leicester City"
+        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
+        "movieName": "Aston Villa vs West Ham United"
   },
+	{
+	"bannerCategoryId": "1",
 	
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
+        "movieName": "Aston Villa vs West Ham United"
+  },
 	{
 	"bannerCategoryId": "1",
 	
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/xMDfSqeCN_8/maxresdefault.jpg",
-        "movieName": "Burnley vs Manchester City"
+        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
+        "movieName": "Liverpool vs Brighton"
   },
 	{
 	"bannerCategoryId": "1",
 	
 	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/xMDfSqeCN_8/maxresdefault.jpg",
-        "movieName": "Burnley vs Manchester City"
+        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
+        "movieName": "Liverpool vs Brighton"
   },
 	{
-	"bannerCategoryId": "1",
-	
+	"bannerCategoryId": "2",
 	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
         "movieName": "Leeds United vs Everton"
   },
 	{
-	"bannerCategoryId": "1",
+	"bannerCategoryId": "2",
 	
 	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
          "id": 2,
@@ -53,104 +69,33 @@
         "movieName": "Leeds United vs Everton"
   },
 	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Brighton"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Brighton"
-  },
-	{
 	"bannerCategoryId": "2",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/MSLSK80zqls/maxresdefault.jpg",
-        "movieName": "Fulham vs Leicester City"
-  },
-	{
-	"bannerCategoryId": "2",
+	
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/MSLSK80zqls/maxresdefault.jpg",
-        "movieName": "Fulham vs Leicester City"
+        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
+        "movieName": "Aston Villa vs West Ham United"
   },
+	{
+	"bannerCategoryId": "2",
 	
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
+        "movieName": "Aston Villa vs West Ham United"
+  },
 	{
 	"bannerCategoryId": "2",
 	
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/xMDfSqeCN_8/maxresdefault.jpg",
-        "movieName": "Burnley vs Manchester City"
-  },
-	{
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
-        "movieName": "Leeds United vs Everton"
-  },
-	{
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
-        "movieName": "Leeds United vs Everton"
-  },
-	{
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "",
-         "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
         "movieName": "Liverpool vs Brighton"
   },
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
         "movieName": "Liverpool vs Brighton"
