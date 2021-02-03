@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "ENGLISH PREMIER LEAGUE",
+		"categoryTitle": "ENGLISH PREMIER LEAGUE   → ",
 		"categoryItemList": [{
 	"bannerCategoryId": "1",
 "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
@@ -85,7 +85,7 @@
 },
 		
  {	"categoryId": 1,
-		"categoryTitle": "COPA DEL REY",
+		"categoryTitle": "COPA DEL REY  →  ",
 		"categoryItemList": [{
 	 "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
          "id": 2,
