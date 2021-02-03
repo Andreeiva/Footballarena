@@ -8,7 +8,7 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
         "movieName": "Leeds United vs Everton"
@@ -16,7 +16,7 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
         "movieName": "Leeds United vs Everton"
@@ -24,7 +24,7 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
         "movieName": "Aston Villa vs West Ham United"
@@ -32,7 +32,7 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
         "movieName": "Aston Villa vs West Ham United"
@@ -40,7 +40,7 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
         "movieName": "Liverpool vs Brighton"
@@ -48,14 +48,14 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
         "movieName": "Liverpool vs Brighton"
   },
 	{
 	"bannerCategoryId": "2",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
         "movieName": "Leeds United vs Everton"
@@ -63,7 +63,7 @@
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
         "movieName": "Leeds United vs Everton"
@@ -71,7 +71,7 @@
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
         "movieName": "Aston Villa vs West Ham United"
@@ -79,7 +79,7 @@
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
         "movieName": "Aston Villa vs West Ham United"
@@ -87,7 +87,7 @@
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
         "movieName": "Liverpool vs Brighton"
@@ -95,7 +95,7 @@
 	{
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
         "movieName": "Liverpool vs Brighton"
@@ -108,14 +108,14 @@
 
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/HYvdQdmXJOY/maxresdefault.jpg",
         "movieName": "Granada vs Barcelona"
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://dailysportbucket30.s3.eu-west-3.amazonaws.com/1a/1.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/HYvdQdmXJOY/maxresdefault.jpg",
         "movieName": "Granada vs Barcelona"
@@ -126,7 +126,7 @@
 	
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+     "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/9VPrQNkXvnA/maxresdefault.jpg",
     "movieName": "Napoli vs Atalanta"
@@ -135,7 +135,7 @@
 			
 			{
     "bannerCategoryId": "4",
-   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/9VPrQNkXvnA/maxresdefault.jpg",
     "movieName": "Napoli vs Atalanta"
@@ -146,7 +146,7 @@
 	
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
+   "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/eue0o4MPa20/maxresdefault.jpg",
     "movieName": "Stuttgart vs Borussia M'gladbach"
