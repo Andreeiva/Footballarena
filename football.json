@@ -9,15 +9,15 @@
 	"bannerCategoryId": "1",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
-        "movieName": "ManUtd vs Southampton"
+        "imageUrl": "https://i.ytimg.com/vi/MSLSK80zqls/maxresdefault.jpg",
+        "movieName": "Fulham vs Leicester City"
   },
 	{
 	"bannerCategoryId": "1",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
-        "movieName": "ManUtd vs Southampton"
+        "imageUrl": "https://i.ytimg.com/vi/MSLSK80zqls/maxresdefault.jpg",
+        "movieName": "Fulham vs Leicester City"
   },
 	
 	{
@@ -25,23 +25,79 @@
 	
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/_5aNnZB-rSA/maxresdefault.jpg",
-        "movieName": "Newcastle vs Crystal Palace"
+        "imageUrl": "https://i.ytimg.com/vi/xMDfSqeCN_8/maxresdefault.jpg",
+        "movieName": "Burnley vs Manchester City"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/xMDfSqeCN_8/maxresdefault.jpg",
+        "movieName": "Burnley vs Manchester City"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
+        "movieName": "Leeds United vs Everton"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
+        "movieName": "Leeds United vs Everton"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
+        "movieName": "Aston Villa vs West Ham United"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
+        "movieName": "Aston Villa vs West Ham United"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
+        "movieName": "Liverpool vs Brighton"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
+        "movieName": "Liverpool vs Brighton"
   },
 	{
 	"bannerCategoryId": "2",
 	
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
-        "movieName": "ManUtd vs Southampton"
+        "imageUrl": "https://i.ytimg.com/vi/MSLSK80zqls/maxresdefault.jpg",
+        "movieName": "Fulham vs Leicester City"
   },
 	{
 	"bannerCategoryId": "2",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/yKAkT8oqA6U/maxresdefault.jpg",
-        "movieName": "ManUtd vs Southampton"
+        "imageUrl": "https://i.ytimg.com/vi/MSLSK80zqls/maxresdefault.jpg",
+        "movieName": "Fulham vs Leicester City"
   },
 	
 	{
@@ -49,16 +105,64 @@
 	
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/_5aNnZB-rSA/maxresdefault.jpg",
-        "movieName": "Newcastle vs Crystal Palace"
+        "imageUrl": "https://i.ytimg.com/vi/xMDfSqeCN_8/maxresdefault.jpg",
+        "movieName": "Burnley vs Manchester City"
   },
 	{
 	"bannerCategoryId": "2",
 	
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/_5aNnZB-rSA/maxresdefault.jpg",
-        "movieName": "Newcastle vs Crystal Palace"
+        "imageUrl": "https://i.ytimg.com/vi/xMDfSqeCN_8/maxresdefault.jpg",
+        "movieName": "Burnley vs Manchester City"
+  },
+	{
+	"bannerCategoryId": "2",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
+        "movieName": "Leeds United vs Everton"
+  },
+	{
+	"bannerCategoryId": "2",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
+        "movieName": "Leeds United vs Everton"
+  },
+	{
+	"bannerCategoryId": "2",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
+        "movieName": "Aston Villa vs West Ham United"
+  },
+	{
+	"bannerCategoryId": "2",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
+        "movieName": "Aston Villa vs West Ham United"
+  },
+	{
+	"bannerCategoryId": "2",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
+        "movieName": "Liverpool vs Brighton"
+  },
+	{
+	"bannerCategoryId": "2",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
+        "movieName": "Liverpool vs Brighton"
   },
   
    
@@ -69,15 +173,22 @@
     "bannerCategoryId": "3",
  "fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/5KLXHa0ahQ0/maxresdefault.jpg",
-        "movieName": "Almería vs Sevilla"
+        "imageUrl": "https://i.ytimg.com/vi/x7AVU0cs4cA/maxresdefault.jpg",
+        "movieName": "Levante vs Villarreal"
   },
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/5KLXHa0ahQ0/maxresdefault.jpg",
-        "movieName": "Almería vs Sevilla"
+        "imageUrl": "https://i.ytimg.com/vi/HYvdQdmXJOY/maxresdefault.jpg",
+        "movieName": "Granada vs Barcelona"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/HYvdQdmXJOY/maxresdefault.jpg",
+        "movieName": "Granada vs Barcelona"
   },
 	
 
@@ -87,8 +198,8 @@
     "bannerCategoryId": "4",
     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/UInWnFwXFO8/maxresdefault.jpg",
-    "movieName": "Internazionale vs Juventus"
+    "imageUrl": "https://i.ytimg.com/vi/9VPrQNkXvnA/maxresdefault.jpg",
+    "movieName": "Napoli vs Atalanta"
   },
 	
 			
@@ -96,8 +207,8 @@
     "bannerCategoryId": "4",
    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/UInWnFwXFO8/maxresdefault.jpg",
-    "movieName": "Internazionale vs Juventus"
+    "imageUrl": "https://i.ytimg.com/vi/9VPrQNkXvnA/maxresdefault.jpg",
+    "movieName": "Napoli vs Atalanta"
   },
 	
 	
@@ -107,8 +218,15 @@
     "bannerCategoryId": "5",
    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Entaqt4dDww/maxresdefault.jpg",
-    "movieName": "Borussia Dortmund vs Paderborn"
+    "imageUrl": "https://i.ytimg.com/vi/ocZyqfT7cj8/maxresdefault.jpg",
+    "movieName": "Wolfsburg vs Schalke 04"
+  },
+		{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/eue0o4MPa20/maxresdefault.jpg",
+    "movieName": "Stuttgart vs Borussia M'gladbach"
   }
 	
 	
