@@ -10,95 +10,33 @@
 	
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
-        "movieName": "Leeds United vs Everton"
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
   },
 	{
 	"bannerCategoryId": "1",
-	
+		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
-        "movieName": "Leeds United vs Everton"
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
   },
-	{
-	"bannerCategoryId": "1",
 	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Brighton"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Brighton"
   },
 	{
 	"bannerCategoryId": "2",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
-        "movieName": "Leeds United vs Everton"
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
   },
 	{
 	"bannerCategoryId": "2",
-	
+		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
-        "movieName": "Leeds United vs Everton"
-  },
-	{
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Brighton"
-  },
-	{
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Brighton"
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
   },
   
    
@@ -110,15 +48,15 @@
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/HYvdQdmXJOY/maxresdefault.jpg",
-        "movieName": "Granada vs Barcelona"
+        "imageUrl": "https://i.ytimg.com/vi/m_WMV6KQJW0/maxresdefault.jpg",
+        "movieName": "Real Betis vs Athletic Club"
   },
 	{
-	"bannerCategoryId": "3",
+		"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/HYvdQdmXJOY/maxresdefault.jpg",
-        "movieName": "Granada vs Barcelona"
+        "imageUrl": "https://i.ytimg.com/vi/m_WMV6KQJW0/maxresdefault.jpg",
+        "movieName": "Real Betis vs Athletic Club"
   },
 	
 
@@ -128,7 +66,7 @@
     "bannerCategoryId": "4",
      "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/9VPrQNkXvnA/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Napoli vs Atalanta"
   },
 	
@@ -137,7 +75,7 @@
     "bannerCategoryId": "4",
    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/9VPrQNkXvnA/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Napoli vs Atalanta"
   },
 	
