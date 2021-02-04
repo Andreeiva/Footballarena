@@ -24,19 +24,19 @@
 		"categoryTitle": "COPA DEL REY  ------→  ",
 		"categoryItemList": [
 	{
+
 	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
-        "movieName": "Tottenham Hotspur vs Chelsea"
+        "imageUrl": "https://i.ytimg.com/vi/m_WMV6KQJW0/maxresdefault.jpg",
+        "movieName": "Real Betis vs Athletic Club"
   },
 	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "",
+		"bannerCategoryId": "3",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
-        "movieName": "Tottenham Hotspur vs Chelsea"
+        "imageUrl": "https://i.ytimg.com/vi/m_WMV6KQJW0/maxresdefault.jpg",
+        "movieName": "Real Betis vs Athletic Club"
   }
 
 		]
