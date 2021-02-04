@@ -6,48 +6,16 @@
 	"bannerCategoryId": "1",
 "fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
-        "movieName": "Leeds United vs Everton"
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
   },
 	{
 	"bannerCategoryId": "1",
-	
+		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Sy8oBDN-kGs/maxresdefault.jpg",
-        "movieName": "Leeds United vs Everton"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/XRccVGZ9EPE/maxresdefault.jpg",
-        "movieName": "Aston Villa vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Brighton"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/tjYrbXA1b_0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Brighton"
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
     }
   ]
 },
@@ -57,18 +25,18 @@
 		"categoryItemList": [
 	{
 	"bannerCategoryId": "3",
-	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/HYvdQdmXJOY/maxresdefault.jpg",
-        "movieName": "Granada vs Barcelona"
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
   },
 	{
-	"bannerCategoryId": "3",
+	"bannerCategoryId": "2",
+		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/HYvdQdmXJOY/maxresdefault.jpg",
-        "movieName": "Granada vs Barcelona"
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
   }
 
 		]
