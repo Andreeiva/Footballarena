@@ -1,22 +1,22 @@
 
 [{
 		"categoryId": 4,
-		"categoryTitle": "COPA ITALIA   ------→",
+		"categoryTitle": "SERIE A   ------→",
 		"categoryItemList": [{
 "bannerCategoryId": "1",
-    "fileUrl": "",
+   "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/9VPrQNkXvnA/maxresdefault.jpg",
-    "movieName": "Napoli vs Atalanta"
+    "imageUrl": "https://i.ytimg.com/vi/1tOQqNeuXYE/maxresdefault.jpg",
+    "movieName": "Fiorentina vs Internazionale"
   },
 	
 			
 			{
     "bannerCategoryId": "4",
-   "fileUrl": "",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/9VPrQNkXvnA/maxresdefault.jpg",
-    "movieName": "Napoli vs Atalanta"
+    "imageUrl": "https://i.ytimg.com/vi/1tOQqNeuXYE/maxresdefault.jpg",
+    "movieName": "Fiorentina vs Internazionale"
   }
 
 
